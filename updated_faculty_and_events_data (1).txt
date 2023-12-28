@@ -1,0 +1,896 @@
+Samir Khuller is a Computer Science faculty member who holds the following position(s): ['Peter and Adrienne Barris Chair of Computer Science', 'Professor of Computer Science']. Their educational background consists of: Indian Institute of Technology for their Bachelor's, Cornell University for their Master's, Cornell University for their Doctorate. Their research interests include: ['graph algorithms', 'discrete optimization', 'computational geometry']. They will not be available during the following times: N/A. Their office is Mudd Room 3017 and they can be reached at: samir.khuller@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/khuller-samir.html (Site), 847-491-2748 (Phone).
+
+Kara Ahuja is a Computer Science faculty member who holds the following position(s): Assistant Professor of Computer Science beginning on September 1st, 2024. Their educational background consists of: N/A for their Bachelor's, N/A for their Master's, N/A for their Doctorate. Their research interests include: N/A. They will not be available during the following times: N/A. Their office is N/A and they can be reached at: karan.ahuja@northwestern.edu (Email), https://karan-ahuja.com/ (Site), N/A (Phone).
+
+Mohammed Alam is a Computer Science faculty member who holds the following position(s): ['Assistant Professor of Instruction', 'Deputy Director of the Master of Science in Artificial Intelligence Program']. Their educational background consists of: Illinois Institute of Technology for their Bachelor's, Northwestern University for their Master's, Northwestern University for their Doctorate. Their research interests include: N/A. They will not be available during the following times: ['Monday 11:00-12:20pm', 'Wednesday 11:00-12:20pm']. Their office is Mudd Room 3312 and they can be reached at: mohammed.alam@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/alam-mohammed.html (Site), N/A (Phone).
+
+Emma Alexander is a Computer Science faculty member who holds the following position(s): ['Assistant Professor of Computer Science']. Their educational background consists of: Yale University for their Bachelor's, Harvard University for their Master's, Harvard University for their Doctorate. Their research interests include: low-level, bio-inspired, physics-based computer vision. They will not be available during the following times: ['Tuesday 9:30-10:50am', 'Thursday 9:30-10:50am']. Their office is Mudd Room 3515 and they can be reached at: ealexander@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/alexander-emma.html (Site), N/A (Phone).
+
+Nabil Alshurafa is a Computer Science faculty member who holds the following position(s): ['Associate Professor of Preventive Medicine and (by courtesy) Computer Science and Electrical and Computer Engineering']. Their educational background consists of: UCLA for their Bachelor's, UCLA for their Master's, UCLA for their Doctorate. Their research interests include: ['health', 'body sensor networks', 'behavioral science', 'data analytics', 'embedded systems', 'algorithm design']. They will not be available during the following times: N/A. Their office is Suite 1400 on 680 N. Lakeshore Dr Chicago, IL and they can be reached at: nabil@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/affiliated/alshurafa-nabil.html (Site), 312-503-4514 (Phone).
+
+Brenna Argall is a Computer Science faculty member who holds the following position(s): ['Associate Professor of Computer Science', 'Associate Professor of Mechanical Engineering', 'Associate Professor of Physical Medicine and Rehabilitation']. Their educational background consists of: Carnegie Mellon University for their Bachelor's, Carnegie Mellon University for their Master's, Carnegie Mellon University for their Doctorate. Their research interests include: ['intersection of artificial intelligence', 'rehabilitation robots', 'machine learning']. They will not be available during the following times: N/A. Their office is Tech Room B288 and they can be reached at: brenna.argall@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/argall-brenna.html (Site), 847-467-0862 (Phone).
+
+Connor Bain is a Computer Science faculty member who holds the following position(s): ['Assistant Professor of Instruction']. Their educational background consists of: University of South Carolina for their Bachelor's, University of South Carolina for their Master's, Northwestern University for their Doctorate. Their research interests include: support learners in developing authentic computational thinking skills. They will not be available during the following times: ['Monday 1:00-2:50pm', 'Wednesday 1:00-2:50pm', 'Friday 1:00-2:50pm']. Their office is Mudd Room 3504 and they can be reached at: connor.bain@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/bain-connor.html (Site), N/A (Phone).
+
+Sruti Bhagavatula is a Computer Science faculty member who holds the following position(s): ['Assistant Professor of Instruction']. Their educational background consists of: University of Illinois at Chicago for their Bachelor's, Carnegie Mellon University for their Master's, Carnegie Mellon University for their Doctorate. Their research interests include: N/A. They will not be available during the following times: ['Tuesday 11:00-12:20pm', 'Thursday 11:00-12:20pm', 'Tuesday 3:30-4:50pm', 'Thursday 3:30-4:50pm']. Their office is Mudd Room 3510 and they can be reached at: srutib@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/bhagavatula-sruti.html (Site), N/A (Phone).
+
+Larry Birnbaum is a Computer Science faculty member who holds the following position(s): ['Professor of Computer Science']. Their educational background consists of: Yale University for their Bachelor's, Yale University for their Master's, Yale University for their Doctorate. Their research interests include: ['applied AI and human-AI collaboration', 'natural language processing', 'conversational interfacs', 'intelligent information systems', 'social media data analytics', 'machine learning']. They will not be available during the following times: ['Monday 3:30-4:50', 'Wednesday 3:30-4:50']. Their office is Mudd Room 3225 and they can be reached at: l-birnbaum@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/birnbaum-larry.html (Site), 847-491-3640 (Phone).
+
+Jeremy Birnholtz is a Computer Science faculty member who holds the following position(s): Associate Professor of Communication Studies and (by courtesy) Associate Professor of Computer Science. Their educational background consists of: Northwestern University for their Bachelor's, University of Michigan for their Master's, University of Michigan for their Doctorate. Their research interests include: online coordination, collaboration, and interaction. They will not be available during the following times: N/A. Their office is N/A and they can be reached at: N/A (Email), N/A (Site), N/A (Phone).
+
+Fabian Bustamante is a Computer Science faculty member who holds the following position(s): ['Professor of Computer Science', 'Co-Director of Graduate Admissions']. Their educational background consists of: Universidad Nacional de la Patagonia San Juan Bosco for their Bachelor's, Georgia Institute of Technology for their Master's, Georgia Institute of Technology for their Doctorate. Their research interests include: ['internet-scale computer networks', 'distributed systems']. They will not be available during the following times: N/A. Their office is Mudd Room 3509 and they can be reached at: fabianb@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/bustamante-fabian.html (Site), N/A (Phone).
+
+Simone Campanoni is a Computer Science faculty member who holds the following position(s): ['Assistant Professor of Computer Science and (by courtesy) Electrical and Computer Engineering']. Their educational background consists of: Politecnico di Milano for their Bachelor's, Politecnico di Milano for their Master's, Politecnico di Milano for their Doctorate. Their research interests include: ['compilers', 'computer architecture', 'runtime systems', 'operating systems', 'programming languages']. They will not be available during the following times: ['Tuesday 5:00-6:20pm', 'Thursday 5:00-6:20pm']. Their office is Mudd Room 3512 and they can be reached at: simone.campanoni@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/campanoni-simone.html (Site), N/A (Phone).
+
+Yan Chen is a Computer Science faculty member who holds the following position(s): ['Professor of Computer Science']. Their educational background consists of: Zhejiang University for their Bachelor's, State University of New York for their Master's, University of California Berkeley for their Doctorate. Their research interests include: security, measurement, and diagnosis for network and large-scale distributed systems. They will not be available during the following times: N/A. Their office is Mudd Room 3007 and they can be reached at: ychen@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/chen-yan.html (Site), 847-491-4946 (Phone).
+
+Alok Choudhary is a Computer Science faculty member who holds the following position(s): ['Henry and Isabelle Dever Professor of Electrical and Computer Engineering and (by courtesy) Computer Science']. Their educational background consists of: Birla Institue of Technology and Science for their Bachelor's, University of Massachusetts for their Master's, University of Illinois at Urbana Champaign for their Doctorate. Their research interests include: ['big data science', 'supercomputing', 'scalable data mining', 'machine learning', 'AI and its applications in sciences']. They will not be available during the following times: N/A. Their office is Tech Room L469 and they can be reached at: a-choudhary@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/choudhary-alok.html (Site), 847-467-4129 (Phone).
+
+Katherine Compton is a Computer Science faculty member who holds the following position(s): ['Assistant Professor of Instruction']. Their educational background consists of: N/A for their Bachelor's, N/A for their Master's, University of California, Santa Cruz for their Doctorate. Their research interests include: N/A. They will not be available during the following times: ['Monday 12:00-12:50', 'Wednesday 12:00-12:50', 'Friday 12:00-12:50', 'Monday 8:00-8:50am', 'Wednesday 8:00-8:50am', 'Friday 8:00-8:50am']. Their office is Tech Room L374 and they can be reached at: katherine.compton@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/compton-katherine.html (Site), N/A (Phone).
+
+Noshir Contractor is a Computer Science faculty member who holds the following position(s): ['Jane S. and William J. White Professor of Behavioral Sciences in Industrial Engineering & Management Sciences and (by courtesy) Computer Science', 'Professor of Communication Studies', 'Professor of Management and Organizations']. Their educational background consists of: Indian Institute of Technology for their Bachelor's, University of Southern California for their Master's, University of Southern California for their Doctorate. Their research interests include: ['network science', 'computational social science', 'web science']. They will not be available during the following times: Friday 2:00-5:00pm. Their office is Tech Room D241 and they can be reached at: nosh@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/contractor-noshir.html (Site), N/A (Phone).
+
+Oliver Cossairt is a Computer Science faculty member who holds the following position(s): ['Associate Professor of Computer Science', 'Associate Professor of Electrical and Computer Engineering']. Their educational background consists of: Evergreen State College for their Bachelor's, MIT for their Master's, Columbia University for their Doctorate. Their research interests include: computational imaging, which combines expertise in optics, image processing, computer vision, and computer graphics. They will not be available during the following times: N/A. Their office is Mudd Room 3511 and they can be reached at: oliver.cossairt@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/cossairt-oliver.html (Site), N/A (Phone).
+
+Andrew Crotty is a Computer Science faculty member who holds the following position(s): ['Assistant Professor of Computer Science']. Their educational background consists of: N/A for their Bachelor's, N/A for their Master's, N/A for their Doctorate. Their research interests include: N/A. They will not be available during the following times: ['Monday 3:30-4:50pm', 'Wednesday 3:30-4:50pm']. Their office is N/A and they can be reached at: andrew.crotty@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/crotty-andrew.html (Site), N/A (Phone).
+
+Jennifer Cutler is a Computer Science faculty member who holds the following position(s): Associate Professor of Marketing and (by courtesy) Computer Science. Their educational background consists of: N/A for their Bachelor's, Brown University for their Master's, Duke University for their Doctorate. Their research interests include: N/A. They will not be available during the following times: N/A. Their office is N/A and they can be reached at: jennifer.cutler@kellogg.northwestern.edu (Email), https://www.kellogg.northwestern.edu/faculty/directory/cutler_jennifer.aspx (Site), N/A (Phone).
+
+David Demeter is a Computer Science faculty member who holds the following position(s): ['Assistant Professor of Instruction (joining Sep 1, 2023)']. Their educational background consists of: N/A for their Bachelor's, N/A for their Master's, N/A for their Doctorate. Their research interests include: N/A. They will not be available during the following times: ['Monday 11:00-12:20pm', 'Wednesday 11:00-12:20pm']. Their office is Mudd Room 3527 and they can be reached at: david.jr1@northwestern.edu (Email),  (Site), N/A (Phone).
+
+Nick Diakopoulos is a Computer Science faculty member who holds the following position(s): ['Associate Professor of Communication Studies and (by courtesy) Computer Science']. Their educational background consists of: Brown University for their Bachelor's, Georgia Institute of Technology for their Master's, Georgia Institute of Technology for their Doctorate. Their research interests include: N/A. They will not be available during the following times: N/A. Their office is N/A and they can be reached at: nad@northwestern.edu (Email), https://communication.northwestern.edu/faculty/nicholas-diakopoulos.html (Site), N/A (Phone).
+
+Christos Dimoulas is a Computer Science faculty member who holds the following position(s): ['Assistant Professor of Computer Science']. Their educational background consists of: N/A for their Bachelor's, N/A for their Master's, Northeastern University for their Doctorate. Their research interests include: programming languages. They will not be available during the following times: N/A. Their office is Mudd Room 3513 and they can be reached at: christos.dimoulas@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/dimoulas-christos.html (Site), N/A (Phone).
+
+Peter Dinda is a Computer Science faculty member who holds the following position(s): ['Professor of Computer Science and (by courtesy) Electrical and Computer Engineering']. Their educational background consists of: University of Wisconsin, Madison for their Bachelor's, Carnegie Mellon University for their Master's, Carnegie Mellon University for their Doctorate. Their research interests include: ['virtualization and operating systems for distributed and parallel computing', 'programming languages for parallel computing', 'empathic systems for bridging individual user satisfaction and systems-level decision-making']. They will not be available during the following times: N/A. Their office is Mudd Room 3507 and they can be reached at: pdinda@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/dinda-peter.html (Site), 847-467-7859 (Phone).
+
+Douglas Downey is a Computer Science faculty member who holds the following position(s): ['Professor of Computer Science']. Their educational background consists of: Case Western Reserve University for their Bachelor's, University of Washington, Seattle for their Master's, University of Washington, Seattle for their Doctorate. Their research interests include: ['natural language processing', 'machine learning', 'artificial intelligence', 'automatic construction of useful knowledge bases from Web text']. They will not be available during the following times: N/A. Their office is Mudd Room 3111 and they can be reached at: d-downey@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/downey-douglas.html (Site), N/A (Phone).
+
+Matthew Easterday is a Computer Science faculty member who holds the following position(s): ['Assistant Professor of Learning Sciences and (by courtesy) Computer Science']. Their educational background consists of: Reed College for their Bachelor's, Carnegie Mellon University for their Master's, Carnegie Mellon University for their Doctorate. Their research interests include: N/A. They will not be available during the following times: N/A. Their office is N/A and they can be reached at: easterday@northwestern.edu (Email), https://design.northwestern.edu/people/profiles/easterday-matt.html (Site), N/A (Phone).
+
+Andrew Fano is a Computer Science faculty member who holds the following position(s): ['McCormick Director, Kellogg-McCormick MBAi', 'Clinical Professor']. Their educational background consists of: N/A for their Bachelor's, Vassar University for their Master's, Northwestern University for their Doctorate. Their research interests include: N/A. They will not be available during the following times: N/A. Their office is Mudd Room 3223 and they can be reached at: andrew.fano@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/fano-andrew.html (Site), N/A (Phone).
+
+Robby Findler is a Computer Science faculty member who holds the following position(s): ['Professor of Computer Science', 'Associate Chair']. Their educational background consists of: Carnegie Mellon University for their Bachelor's, N/A for their Master's, Rice University for their Doctorate. Their research interests include: ['programming languages', 'program development environments, contracts, and tools to help semantics engineers']. They will not be available during the following times: ['Monday 11:00-11:50', 'Wednesday 11:00-11:50', 'Friday 11:00-11:50']. Their office is Mudd Room 3502 and they can be reached at: robby@eecs.northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/findler-robert.html (Site), 847-467-7859 (Phone).
+
+Ken Forbus is a Computer Science faculty member who holds the following position(s): ['Walter P. Murphy Professor of Computer Science']. Their educational background consists of: MIT for their Bachelor's, MIT for their Master's, MIT for their Doctorate. Their research interests include: ['qualitative reasoning, analogical reasoning and learning, spatial reasoning', 'sketch understanding, natural language understanding', 'cognitive architecture, reasoning system design, intelligent educational software']. They will not be available during the following times: N/A. Their office is Mudd Room 3113 and they can be reached at: forbus@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/forbus-ken.html (Site), 847-491-7699 (Phone).
+
+Steven Franconeri is a Computer Science faculty member who holds the following position(s): ['Professor of Psychology and (by courtesy) Computer Science']. Their educational background consists of: Rutgers University for their Bachelor's, Harvard University for their Master's, Harvard University for their Doctorate. Their research interests include: N/A. They will not be available during the following times: N/A. Their office is N/A and they can be reached at: franconeri@northwestern.edu (Email), https://psychology.northwestern.edu/people/faculty/core/profiles/steven-franconeri.html (Site), 847-467-1259 (Phone).
+
+Julia Gaudio is a Computer Science faculty member who holds the following position(s): ['Research Assistant Professor in Industrial Engineering and Management Sciences and (by courtesy) Computer Science']. Their educational background consists of: N/A for their Bachelor's, N/A for their Master's, N/A for their Doctorate. Their research interests include: N/A. They will not be available during the following times: N/A. Their office is N/A and they can be reached at: julia.gaudio@northwestern.edu (Email), https://sites.northwestern.edu/juliagaudio/ (Site), N/A (Phone).
+
+Elizabeth Gerber is a Computer Science faculty member who holds the following position(s): ['Professor of Mechanical Engineering and (by courtesy) Computer Science', 'Professor of Communication Studies', 'Co-Director, Center for Human Computer Interaction + Design']. Their educational background consists of: Dartmouth College for their Bachelor's, Stanford University for their Master's, Stanford Unversity for their Doctorate. Their research interests include: collective innovation, an innovation process that harnesses the diverse and untapped human, social, and economic capital from distributed networks to discover, evaluate, and implement new ideas. They will not be available during the following times: N/A. Their office is Ford Room 2-327 and they can be reached at: egerber@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/gerber-elizabeth.html (Site), 847-467-0607 (Phone).
+
+Darren Gergle is a Computer Science faculty member who holds the following position(s): ['Professor, Communication Studies and (by courtesy) Computer Science']. Their educational background consists of: N/A for their Bachelor's, N/A for their Master's, N/A for their Doctorate. Their research interests include: ['Human Computer Interaction', 'Computer-Supported Cooperative Work', 'Computer_Mediated Communication', 'the role that visual information plays in supporting communication and group interactions', 'application of social and cognitive psychology theory to the design, deployment and evaluation of computing technologies']. They will not be available during the following times: N/A. Their office is Frances Searle Room 1-158 and they can be reached at: dgergle@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/affiliated/gergle-darren.html (Site), 847-467-1221 (Phone).
+
+Branden Ghena is a Computer Science faculty member who holds the following position(s): ['Assistant Professor of Instruction']. Their educational background consists of: Michigan Technological University for their Bachelor's, University of Michigan, Ann Arbor for their Master's, University of California, Berkeley for their Doctorate. Their research interests include: N/A. They will not be available during the following times: ['Tuesday 12:30-1:50pm', 'Thursday 12:30-1:50pm', 'Tuesday 3:30-4:50pm', 'Thursday 3:30-4:50pm']. Their office is Tech Room L368 and they can be reached at: branden@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/ghena-branden.html (Site), N/A (Phone).
+
+Joshua Glaser is a Computer Science faculty member who holds the following position(s): ['Assistant Professor of Neurology - Ken and Ruth Davee Department and (by courtesy) Computer Science']. Their educational background consists of: University of Illinois Urbana-Champaign for their Bachelor's, N/A for their Master's, Northwestern University for their Doctorate. Their research interests include: N/A. They will not be available during the following times: N/A. Their office is N/A and they can be reached at: j-glaser@northwestern.edu (Email), https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=56122 (Site), N/A (Phone).
+
+Benjamin Golub is a Computer Science faculty member who holds the following position(s): ['Professor of Economics and (by courtesy) Computer Science']. Their educational background consists of: N/A for their Bachelor's, N/A for their Master's, Stanford University for their Doctorate. Their research interests include: N/A. They will not be available during the following times: N/A. Their office is N/A and they can be reached at: benjamin.golub@northwestern.edu (Email), https://economics.northwestern.edu/people/directory/ben-golub.html (Site), 847-491-8230 (Phone).
+
+Dongning Guo is a Computer Science faculty member who holds the following position(s): ['Professor of Electrical and Computer Engineering and (by courtesy) Computer Science']. Their educational background consists of: University of Science & Technology of China for their Bachelor's, National University of Singapore for their Master's, Princeton University for their Doctorate. Their research interests include: ['blockchain technologies', 'wireless communications', 'information theory', 'communication networks', 'machine learning']. They will not be available during the following times: N/A. Their office is Tech Room L393 and they can be reached at: dguo@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/guo-dongning.html (Site), 847-491-3056 (Phone).
+
+Kristian Hammond is a Computer Science faculty member who holds the following position(s): ['Professor of Computer Science', 'Bill and Cathy Osborn Professor']. Their educational background consists of: Yale University for their Bachelor's, Yale University for their Master's, Yale University for their Doctorate. Their research interests include: Developing human capabilities onto machines Co-founded Narrative Science, a startup that uses artificial intelligence and journalism to turn information from raw data into natural language Integrating Computer Science and Artificial Intelligent into all aspects of life. They will not be available during the following times: ['Tuesday 11:00-12:20pm', 'Thursday 11:00-12:20pm', 'Tuesday 2:00-3:50pm', 'Thursday 2:00-3:50pm']. Their office is Mudd Room 3109 and they can be reached at: hammond@cs.northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/hammond-kristian.html (Site), 847-467-1012 (Phone).
+
+Nikos Hardavellas is a Computer Science faculty member who holds the following position(s): ['Associate Professor of Computer Science', 'Associate Professor of Electrical and Computer Engineering']. Their educational background consists of: University of Crete for their Bachelor's, University of Rochester for their Master's, Carnegie Mellon University for their Doctorate. Their research interests include: ['parallel systems and computer architecture', 'techniques to enable extreme-scale multicore processors and practical quantum systems, accelerating the advent of practical quantum computing through innovation at the quantum system stack']. They will not be available during the following times: N/A. Their office is Mudd Room 3517 and they can be reached at: nikos@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/hardavellas-nikos.html (Site), 847-491-2970 (Phone).
+
+Jason Hartline is a Computer Science faculty member who holds the following position(s): ['Professor of Computer Science']. Their educational background consists of: Cornell University for their Bachelor's, University of Washington, Seattle for their Master's, University of Washington, Seattle for their Doctorate. Their research interests include: design and analysis methodologies from computer science to understand and improve outcomes of economic systems. They will not be available during the following times: N/A. Their office is Mudd Room 3015 and they can be reached at: hartline@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/hartline-jason.html (Site), 847-467-0280 (Phone).
+
+Mitra Hartmann is a Computer Science faculty member who holds the following position(s): Professor of Biomedical Engineering, Mechanical Engineering, and (by courtesy) Computer Science. Their educational background consists of: Cornell University for their Bachelor's, California Institute of Technology for their Master's, California Institute of Technology for their Doctorate. Their research interests include: ['sensorimotor integration', 'robots as tools for studying neuroscience', 'sensory acquisition behaviors', 'neuroethology']. They will not be available during the following times: N/A. Their office is Tech Room B284 and they can be reached at: N/A (Email), N/A (Site), 847-467-4633 (Phone).
+
+Michael Horn is a Computer Science faculty member who holds the following position(s): ['Professor of Computer Science', 'Professor of Education and Social Policy']. Their educational background consists of: Brown University for their Bachelor's, Tufts University for their Master's, Tufts University for their Doctorate. Their research interests include: emerging interactive technology in the design of novel learning experiences. They will not be available during the following times: ['Monday 10:00-10:50am', 'Wednesday 10:00-10:50am', 'Friday 10:00-10:50am']. Their office is Annenberg Room 336 and they can be reached at: michael-horn@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/horn-michael.html (Site), 617-803-5501 (Phone).
+
+Ian Horswill is a Computer Science faculty member who holds the following position(s): ['Associate Professor of Computer Science', 'Charles Deering McCormick Professor of Teaching Excellence']. Their educational background consists of: University of Minnesota for their Bachelor's, MIT for their Master's, MIT for their Doctorate. Their research interests include: Using artificial intelligence to expand the expressive potential of computational media such as games and interactive narrative. They will not be available during the following times: ['Monday 4:00-4:50pm', 'Wednesday 4:00-4:50pm', 'Friday 4:00-4:50pm']. Their office is Mudd Room 3537 and they can be reached at: ian@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/horswill-ian.html (Site), 847-467-1258 (Phone).
+
+Ã Gnes  Horvã¡T is a Computer Science faculty member who holds the following position(s): ['Assistant Professor in Communication Studies and (by courtesy) Computer Science ']. Their educational background consists of: N/A for their Bachelor's, N/A for their Master's, N/A for their Doctorate. Their research interests include: N/A. They will not be available during the following times: N/A. Their office is N/A and they can be reached at: a-horvat@northwestern.edu (Email), https://agneshorvat.soc.northwestern.edu/ (Site), N/A (Phone).
+
+Huiling Hu is a Computer Science faculty member who holds the following position(s): ['Assistant Professor of Instruction']. Their educational background consists of: Tongji University for their Bachelor's, University of Maryland College Park for their Master's, University of Maryland College Park for their Doctorate. Their research interests include: N/A. They will not be available during the following times: ['Tuesday 9:30-10:50am', 'Thursday 9:30-10:50am']. Their office is Tech Room L362 and they can be reached at: huiling.hu@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/hu-huiling.html (Site), N/A (Phone).
+
+Jessica Hullman is a Computer Science faculty member who holds the following position(s): ['Associate Professor of Computer Science', 'Ginni Rometty Professor']. Their educational background consists of: The Ohio State University for their Bachelor's, University of Michigan, Ann Arbor for their Master's, University of Michigan, Ann Arbor for their Doctorate. Their research interests include: Challenges and limitations that arise when people theorize and draw inductive inferences from data, uncertainty representation and interactive data analysis. They will not be available during the following times: ['Monday 3:30-4:50pm', 'Wednesday 3:30-4:50pm', 'Monday 10:00-10:50am', 'Wednesday 10:00-10:50am', 'Friday 10:00-10:50am']. Their office is Mudd Room 3521 and they can be reached at: jhullman@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/hullman-jessica.html (Site), N/A (Phone).
+
+Joseph Hummel is a Computer Science faculty member who holds the following position(s): ['Professor of Instruction']. Their educational background consists of: N/A for their Bachelor's, N/A for their Master's, N/A for their Doctorate. Their research interests include: ['programming languages', 'compilers', 'high-performance computing', 'undergraduate research']. They will not be available during the following times: ['Tuesday 12:30-3:20pm', 'Thursday 12:30-3:20pm', 'Monday 3:30-4:50pm', 'Wednesday 3:30-4:50pm']. Their office is Mudd Room 3535 and they can be reached at: joe.hummel@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/hummel-joseph.html (Site), N/A (Phone).
+
+Maia Jacobs is a Computer Science faculty member who holds the following position(s): ['Assistant Professor of Computer Science', 'Assistant Professor of Preventive Medicine', 'Lisa Wissner-Slivka and Benjamin Slivka Professor of Computer Science']. Their educational background consists of: University of Wisconsin-Madison for their Bachelor's, N/A for their Master's, Georgia Institute of Technology for their Doctorate. Their research interests include: ['human-computer interaction', 'health', 'behavioral science', 'machine learning + design']. They will not be available during the following times: ['Monday 12:30-1:50pm', 'Wedensday 12:30-1:50pm']. Their office is Mudd Room 3107 and they can be reached at: maia.jacobs@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/jacobs-maia.html (Site), N/A (Phone).
+
+Russell Joseph is a Computer Science faculty member who holds the following position(s): ['Associate Professor of Electrical and Computer Engineering', 'Associate Professor of Computer Science']. Their educational background consists of: Carnegie Mellon University for their Bachelor's, Princeton University for their Master's, Princeton University for their Doctorate. Their research interests include: ['computer architecture', 'microprocessor desgn for reliability and variability tolerance', 'power-aware computing']. They will not be available during the following times: ['Monday 11:00-11:50am', 'Tuesday 11:00-11:50am', 'Wednesday 11:00-11:50am', 'Friday 11:00-11:50am', 'Monday 12:30-1:50pm', 'Wednesday 12:30-1:50pm']. Their office is Tech Room L467 and they can be reached at: rjoseph@eecs.northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/joseph-russ.html (Site), 847-491-3061 (Phone).
+
+Ming Yang Kao is a Computer Science faculty member who holds the following position(s): ['Professor Emeritus of Computer Science']. Their educational background consists of: National Taiwan University for their Bachelor's, University of California for their Master's, ['Princeton University', 'Yale University'] for their Doctorate. Their research interests include: computer algorithms and their applications, algorithms for computational finance and economics, nano technology (self-assembly), computational biology, data security, graph theory, parallel computing, and combinatorial optimization. They will not be available during the following times: N/A. Their office is Mudd Room 3005 and they can be reached at: kao@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/kao-yang-ming.html (Site), 847-491-2272 (Phone).
+
+Aggelos Katsaggelos is a Computer Science faculty member who holds the following position(s): ['Professor of Electrical and Computer Engineering and (by courtesy) Computer Science', 'Joseph Cummings Professor']. Their educational background consists of: Aristotelian University of Thessaloniki for their Bachelor's, Georgia Institute of Technology for their Master's, Georgia Institute of Technology for their Doctorate. Their research interests include: ['Artificial Intelligence', 'Machine Learning', 'Multimedia Signal Processing, Multimedia Communications', 'Computational Imaging, Computer Vision', 'Medical and Biological Signal Processing, DNA Signal Processing, Scientific Studies in the Arts.']. They will not be available during the following times: N/A. Their office is Tech Room M468 and they can be reached at: aggk@eecs.northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/katsaggelos-aggelos.html (Site), 847-491-7164 (Phone).
+
+Matthew Kay is a Computer Science faculty member who holds the following position(s): ['Assistant Professor of Computer Science', 'Assistant Professor of Communication Studies']. Their educational background consists of: N/A for their Bachelor's, N/A for their Master's, N/A for their Doctorate. Their research interests include: ['human-computer interaction and information visualization', 'uncertainty visualization', 'personal health informatics', 'design of human-centered tools for data analysis']. They will not be available during the following times: ['Tuesday 3:30-4:50pm', 'Thursday 3:30-4:50pm']. Their office is Mudd Room 3525 and they can be reached at: mjskay@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/kay-matthew.html (Site), N/A (Phone).
+
+Sam Kriegman is a Computer Science faculty member who holds the following position(s): ['Assistant Professor of Computer Science', 'Assistant Professor of Mechanical Engineering', 'Assistant Professor of Chemical and Biological Engineering']. Their educational background consists of: N/A for their Bachelor's, N/A for their Master's, N/A for their Doctorate. Their research interests include: auction theory and mechanism design. They will not be available during the following times: N/A. Their office is N/A and they can be reached at: sam.kriegman@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/kriegman-sam.html (Site), N/A (Phone).
+
+Anastasia Kurdia is a Computer Science faculty member who holds the following position(s): ['Professor of Instruction (joining Aug 1, 2023)']. Their educational background consists of: N/A for their Bachelor's, N/A for their Master's, N/A for their Doctorate. Their research interests include: N/A. They will not be available during the following times: ['Monday 12:00-12:50pm', 'Wednesday 12:00-12:50pm', 'Friday 12:00-12:50pm']. Their office is N/A and they can be reached at:  (Email),  (Site), N/A (Phone).
+
+Aleksandar Kuzmanovic is a Computer Science faculty member who holds the following position(s): ['Professor of Computer Science']. Their educational background consists of: University of Belgrade for their Bachelor's, University of Belgrade for their Master's, Rice University for their Doctorate. Their research interests include: ['computer networking with emphasis on design, measurements, analysis, denial-of-service resiliency, and prototype implementation of protocols and algorithms for the Internet', 'low-rate denial-of-service attacks, TCP congestion control, and data sharing methods for Internet-scale systems']. They will not be available during the following times: N/A. Their office is Mudd Room 3519 and they can be reached at: akuzma@cs.northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/kuzmanovic-aleksandar.html (Site), 847-467-5519 (Phone).
+
+Manling Li is a Computer Science faculty member who holds the following position(s): ['Assistant Professor of Computer Science (joining Fall 2024)']. Their educational background consists of: N/A for their Bachelor's, N/A for their Master's, N/A for their Doctorate. Their research interests include: N/A. They will not be available during the following times: N/A. Their office is N/A and they can be reached at:  (Email), https://limanling.github.io/ (Site), N/A (Phone).
+
+Annie Liang is a Computer Science faculty member who holds the following position(s): ['Assistant Professor of Economics and (by courtesy) Computer Science']. Their educational background consists of: MIT for their Bachelor's, N/A for their Master's, Harvard University for their Doctorate. Their research interests include: N/A. They will not be available during the following times: N/A. Their office is N/A and they can be reached at: annie.liang@northwestern.edu (Email), https://economics.northwestern.edu/people/directory/annie-liang.html (Site), 847-491-8211 (Phone).
+
+Daniel W. Linna Jr. is a Computer Science faculty member who holds the following position(s): ['Senior Lecturer in the Pritzker School of Law and Computer Science']. Their educational background consists of: University of Michigan for their Bachelor's, Michigan State University for their Master's, University of Michigan for their Doctorate. Their research interests include: innovation and technology, including computational law, artificial intelligence, data analytics, leadership, operations, and innovation frameworks. They will not be available during the following times: N/A. Their office is N/A and they can be reached at: daniel.linna@law.northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/linna-daniel.html (Site), N/A (Phone).
+
+Han Liu is a Computer Science faculty member who holds the following position(s): ['Associate Professor of Computer Science', 'Associate Professor of Statistics']. Their educational background consists of: N/A for their Bachelor's, N/A for their Master's, Carnegie Mellon University for their Doctorate. Their research interests include: modern artificial intelligence, which exploits computation and data as a lens to explore machine intelligence. They will not be available during the following times: N/A. Their office is Mudd Room 3119 and they can be reached at: hanliu@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-han.html (Site), N/A (Phone).
+
+Duri Long is a Computer Science faculty member who holds the following position(s): ['Assistant Professor of Communication Studies and (by courtesy) Computer Science']. Their educational background consists of: N/A for their Bachelor's, N/A for their Master's, N/A for their Doctorate. Their research interests include: N/A. They will not be available during the following times: N/A. Their office is N/A and they can be reached at: duri@northwestern.edu (Email), https://communication.northwestern.edu/faculty/duri-long.html (Site), N/A (Phone).
+
+Yuan Luo is a Computer Science faculty member who holds the following position(s): ['Associate Professor, Feinberg School of Medicine and (by courtesy) Industrial Engineering & Management Sciences and Computer Science']. Their educational background consists of: N/A for their Bachelor's, N/A for their Master's, MIT for their Doctorate. Their research interests include: N/A. They will not be available during the following times: N/A. Their office is N/A and they can be reached at: yuan.luo@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/affiliated/luo-yuan.html (Site), 312-908-7914 (Phone).
+
+Konstantin Makarychev is a Computer Science faculty member who holds the following position(s): ['Professor of Computer Science', 'Associate Chair for Graduate Studies']. Their educational background consists of: Moscow State University for their Bachelor's, N/A for their Master's, Princeton University for their Doctorate. Their research interests include: ['approximation algorithms', 'beyond worst-case analysis', 'applications of high-dimension geometry in computer science.']. They will not be available during the following times: N/A. Their office is Mudd Room 3009 and they can be reached at: konstantin@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/makarychev-konstantin.html (Site), N/A (Phone).
+
+Malcolm Maciver is a Computer Science faculty member who holds the following position(s): ['Professor of Biomedical Engineering, Mechanical Engineering, and (by courtesy) Computer Science']. Their educational background consists of: University of Toronto for their Bachelor's, University of Toronto for their Master's, University of Illinois at Urbana Champaign for their Doctorate. Their research interests include: N/A. They will not be available during the following times: N/A. Their office is N/A and they can be reached at: maciver@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/macIver-malcolm.html (Site), 847-491-3540 (Phone).
+
+Seda Ogrenci is a Computer Science faculty member who holds the following position(s): ['Professor of Electrical and Computer Engineering', 'Professor of Computer Science']. Their educational background consists of: Bogazici University for their Bachelor's, Northwestern University for their Master's, UCLA for their Doctorate. Their research interests include: Design Automation, real-time edge AI/ML for science, thermal aware design of circuits and systems, thermal sensing and cooling systems for high performance systems, power and energy aware memory systems.. They will not be available during the following times: N/A. Their office is Tech Room L471 and they can be reached at: seda@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/ogrenci-seda.html (Site), 847-491-7378 (Phone).
+
+Eleanor O'Rourke is a Computer Science faculty member who holds the following position(s): ['Assistant Professor of Computer Science ', 'Assistant Professor of Education and Social Policy']. Their educational background consists of: Colby College for their Bachelor's, University of Washington, Seattle for their Master's, University of Washington, Seattle for their Doctorate. Their research interests include: Human-Computer Interaction and Learning Sciences, designing data-driven learning environments and educational games to improve student motivation, provide personalized learning experiences, and support formative assessment. They will not be available during the following times: Tuesday 1:00-3:50pm. Their office is Mudd Room 3523 and they can be reached at: eorourke@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/orourke-eleanor.html (Site), N/A (Phone).
+
+Bryan Pardo is a Computer Science faculty member who holds the following position(s): ['Professor of Computer Science', 'Professor of Radio, Television and Film']. Their educational background consists of: The Ohio State University for their Bachelor's, The Ohio State University for their Master's, University of Michigan, Ann Arbor for their Doctorate. Their research interests include: ['machines that understand and manipulate sound', 'methods in Machine Learning (e.g. automated gradient clipping), and Signal Processing (e.g. the Multi-scale Common-fate Transform) and apply them to new kinds of user interfaces and interactions']. They will not be available during the following times: N/A. Their office is Mudd Room 3115 and they can be reached at: pardo@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/pardo-bryan.html (Site), 847-491-7184 (Phone).
+
+Miklos Racz is a Computer Science faculty member who holds the following position(s): ['Assistant Professor of Computer Science', 'Assistant Professor of Statistics']. Their educational background consists of: N/A for their Bachelor's, N/A for their Master's, N/A for their Doctorate. Their research interests include: N/A. They will not be available during the following times: ['Monday 11:00-12:20pm', 'Wednesday 11:00-12:20pm']. Their office is Mudd Room 3005 and they can be reached at:  (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/racz-miklos.html (Site), N/A (Phone).
+
+Chris Riesbeck is a Computer Science faculty member who holds the following position(s): ['Associate Professor of Computer Science']. Their educational background consists of: Alfred University for their Bachelor's, Stanford University for their Master's, Stanford University for their Doctorate. Their research interests include: ['Agile software development', 'Technology-enabled educational reform', 'Experiential knowledge-based language understanding and reasoning']. They will not be available during the following times: ['Monday 11:00-11:50am', 'Wednesday 11:00-11:50am', 'Friday 11:00-11:50am', 'Monday 3:00-3:50pm', 'Wednesday 3:00-3:50pm', 'Friday 3:00-3:50pm']. Their office is Mudd Room 3117 and they can be reached at: c-riesbeck@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/riesbeck-chris.html (Site), 847-491-7279 (Phone).
+
+Jennie Rogers is a Computer Science faculty member who holds the following position(s): ['Associate Professor of Computer Science']. Their educational background consists of: Rensselaer Polytechnic Institute for their Bachelor's, Brown University for their Master's, Brown University for their Doctorate. Their research interests include: Trustworthy database systems, secure data sharing, privacy-preserving analytics, database query optimization, personal use of big data, data science, database performance.. They will not be available during the following times: ['Tuesday 2:00-3:20pm', 'Thursday 2:00-3:20pm']. Their office is Mudd Room 3123 and they can be reached at: jennie@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/rogers-jennie.html (Site), N/A (Phone).
+
+Michael Rubenstein is a Computer Science faculty member who holds the following position(s): ['Assistant Professor of Computer Science', 'Assistant Professor of Mechanical Engineering', 'Co-Director of Graduate Admissions in Computer Science']. Their educational background consists of: Purdue University for their Bachelor's, University of Southern California for their Master's, University of Southern California for their Doctorate. Their research interests include: advance the control and design of multi-robot systems, enabling their use instead of traditional single robots and to solve problems for which traditional robots are not suitable. They will not be available during the following times: ['Tuesday 2:00-3:20pm', 'Thursday 2:00-3:20pm']. Their office is Tech Room B224 and they can be reached at: rubenstein@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/rubenstein-michael.html (Site), N/A (Phone).
+
+Kate Smith is a Computer Science faculty member who holds the following position(s): ['Assistant Professor of Computer Science (joining Jan 1, 2024)']. Their educational background consists of: N/A for their Bachelor's, N/A for their Master's, N/A for their Doctorate. Their research interests include: N/A. They will not be available during the following times: N/A. Their office is N/A and they can be reached at:  (Email), http://quantumkate.com/ (Site), N/A (Phone).
+
+Sara Owsley Sood is a Computer Science faculty member who holds the following position(s): ['Professor of Instruction', 'Chookaszian Family Teaching Professor', 'Associate Chair for Undergraduate Education']. Their educational background consists of: DePaew University for their Bachelor's, Northwestern University for their Master's, Northwestern University for their Doctorate. Their research interests include: understanding the expression and impact of emotion in online communication. They will not be available during the following times: N/A. Their office is Tech Room L376 and they can be reached at: sara.sood@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/sood-owsley-sara.html (Site), 847-491-5708 (Phone).
+
+Vincent St Amour is a Computer Science faculty member who holds the following position(s): ['Associate Professor of Instruction']. Their educational background consists of: Universite de Montreal for their Bachelor's, N/A for their Master's, Northeastern University for their Doctorate. Their research interests include: ['Programming tools', 'compilers', 'language and library building', 'extensible languages']. They will not be available during the following times: ['Tuesday 11:00-12:20pm', 'Thursday 11:00-12:20pm']. Their office is Tech Room L366 and they can be reached at: stamourv@eecs.northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/st-amour-vincent.html (Site), N/A (Phone).
+
+V.S. Subrahmanian is a Computer Science faculty member who holds the following position(s): ['Walter P. Murphy Professor of Computer Science', 'Faculty Fellow at the Northwestern Buffett Institute for Global Affairs ']. Their educational background consists of: Birla Institute of Technology and Science for their Bachelor's, Syracuse University for their Master's, Syracuse University for their Doctorate. Their research interests include: ['intersection of AI and security problems', 'develops machine learning based models to analyze text/geospatial/relational/social network data', 'learn behavioral models from the data, forecast actions, and influence outcomes']. They will not be available during the following times: N/A. Their office is Mudd Room 3013 and they can be reached at: vss@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/subrahmanian-vs.html (Site), N/A (Phone).
+
+Jack Tumblin is a Computer Science faculty member who holds the following position(s): ['Associate Professor of Computer Science']. Their educational background consists of: Georgia Institute of Technology for their Bachelor's, University of Southern California for their Master's, Georgia Institute of Technology for their Doctorate. Their research interests include: ['computer graphics', 'computational photography']. They will not be available during the following times: N/A. Their office is Mudd Room 3221 and they can be reached at: j-tumblin@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/tumblin-jack.html (Site), 847-467-2129 (Phone).
+
+Aravindan Vijayaraghavan is a Computer Science faculty member who holds the following position(s): ['Associate Professor of Computer Science and (by courtesy) Industrial Engineering & Management Sciences']. Their educational background consists of: Indian Institute of Technology for their Bachelor's, Princeton University for their Master's, Princeton University for their Doctorate. Their research interests include: Theoretical Computer Science, particularly, in designing efficient algorithms for problems in machine learning, high-dimensional data analysis, quantum information and other NP-hard optimization problems. They will not be available during the following times: Tuesday 9:30-12:20pm. Their office is Mudd Room 3011 and they can be reached at: aravindv@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/vijayaraghavan-aravindan.html (Site), 847-467-6145 (Phone).
+
+John Villasenor is a Computer Science faculty member who holds the following position(s): ['Adjunct Professor']. Their educational background consists of: N/A for their Bachelor's, N/A for their Master's, N/A for their Doctorate. Their research interests include: N/A. They will not be available during the following times: N/A. Their office is N/A and they can be reached at: john.villasenor@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/affiliated/villasenor-john.html (Site), N/A (Phone).
+
+Rob Voigt is a Computer Science faculty member who holds the following position(s): ['Assistant Professor of Linguistics and (by courtesy) Computer Science ']. Their educational background consists of: N/A for their Bachelor's, N/A for their Master's, N/A for their Doctorate. Their research interests include: N/A. They will not be available during the following times: N/A. Their office is N/A and they can be reached at: robvoigt@northwestern.edu (Email), https://faculty.wcas.northwestern.edu/robvoigt/ (Site), N/A (Phone).
+
+Xiao Wang is a Computer Science faculty member who holds the following position(s): ['Assistant Professor of Computer Science']. Their educational background consists of: Hong Kong University of Science and Technology for their Bachelor's, N/A for their Master's, University of Maryland College Park for their Doctorate. Their research interests include: Computer security, privacy, and cryptography. They will not be available during the following times: N/A. Their office is Mudd Room 3121 and they can be reached at: wangxiao@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/wang-xiao.html (Site), N/A (Phone).
+
+Zhaoran Wang is a Computer Science faculty member who holds the following position(s): ['Assistant Professor of Industrial Engineering and Management Sciences and (by courtesy) Computer Science']. Their educational background consists of: N/A for their Bachelor's, N/A for their Master's, N/A for their Doctorate. Their research interests include: data-driven decision-making methods, theory, and systems, which tailor artificial intelligence towards addressing pressing societal challenges, machine learning, optimization, statistics, game theory, and information theory.. They will not be available during the following times: ['Tuesday 9:30-10:50am', 'Thursday 9:30-10:50am']. Their office is Tech Room C250 and they can be reached at:  (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/wang-zhaoran.html (Site), N/A (Phone).
+
+Uri Wilensky is a Computer Science faculty member who holds the following position(s): ['Professor of Computer Science', 'Professor of Education and Social Policy', 'Lorraine Morton Professor']. Their educational background consists of: Brandeis University for their Bachelor's, Brandeis University for their Master's, MIT for their Doctorate. Their research interests include: N/A. They will not be available during the following times: N/A. Their office is Annenberg Room 337 and they can be reached at: uri@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/wilensky-uri.html (Site), 847-467-3818 (Phone).
+
+Zach Wood Doughty is a Computer Science faculty member who holds the following position(s): ['Assistant Professor of Instruction']. Their educational background consists of: Carleton College for their Bachelor's, Johns Hopkins University for their Master's, Johns Hopkins University for their Doctorate. Their research interests include: N/A. They will not be available during the following times: ['Tuesday 9:30-10:50am', 'Thursday 9:30-10:50am', 'Tuesday 3:30-4:50pm', 'Thursday 3:30-4:50pm']. Their office is Tech Room L372A and they can be reached at: zach@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/wood-doughty-zach.html (Site), N/A (Phone).
+
+Marcelo Worsley is a Computer Science faculty member who holds the following position(s): ['Assistant Professor of Computer Science', 'Assistant Professor of Education and Social Policy']. Their educational background consists of: Stanford University for their Bachelor's, Stanford University for their Master's, Stanford University for their Doctorate. Their research interests include: technological innovations for supporting inclusive learning and teaching. They will not be available during the following times: N/A. Their office is Annenberg Room 332 and they can be reached at: marcelo.worsley@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/worsley-marcelo.html (Site), N/A (Phone).
+
+Ying Wu is a Computer Science faculty member who holds the following position(s): ['Professor of Electrical and Computer Engineering and (by courtesy) Computer Science']. Their educational background consists of: Huazhong University of Science and Technology for their Bachelor's, Tsinghua University for their Master's, University of Illinois at Urbana Champaign for their Doctorate. Their research interests include: ['Computer vision', 'Autonomous robots and intelligent machines', 'Statistical learning and pattern recognition', 'Multi-modal perception and intelligent interaction', 'Multimedia data mining', 'analytics and management', 'Biomedical image processing and medical applications']. They will not be available during the following times: N/A. Their office is Tech Room L452 and they can be reached at: yingwu@eecs.northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/wu-ying.html (Site), 847-491-2901 (Phone).
+
+Xinyu Xing is a Computer Science faculty member who holds the following position(s): ['Associate Professor of Computer Science']. Their educational background consists of: Beihang University for their Bachelor's, University of Colorado Boulder for their Master's, Georgia Institute of Technology for their Doctorate. Their research interests include: N/A. They will not be available during the following times: ['Tuesday 11:00-12:20pm', 'Thursday 11:00-12:20pm']. Their office is Mudd Room 3005 and they can be reached at:  (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/xing-xinyu.html (Site), N/A (Phone).
+
+Haoqi Zhang is a Computer Science faculty member who holds the following position(s): ['Associate Professor of Computer Science']. Their educational background consists of: Harvard University for their Bachelor's, N/A for their Master's, Harvard University for their Doctorate. Their research interests include: ['design of integrated socio-technical models that solve complex problems and advance human values at scale', 'Human-Computer Interaction', 'Artificial Intelligence', 'Social and Crowd Computing', 'Learning Science', 'Decision Science']. They will not be available during the following times: Friday 12:00-2:50pm. Their office is Mudd Room 3531 and they can be reached at: hq@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/zhang-haoqi.html (Site), N/A (Phone).
+
+Hai Zhou is a Computer Science faculty member who holds the following position(s): ['Associate Professor of Electrical and Computer Engineering and (by courtesy) Computer Science']. Their educational background consists of: Tsinghua University for their Bachelor's, Tsinghua University for their Master's, University of Texas, Austin for their Doctorate. Their research interests include: Logical Methods for Computer Systems (LogiCS), algorithms, formal methods, optimization, and their applications to security, machine learning, and economics. They will not be available during the following times: N/A. Their office is Tech Room L461 and they can be reached at: haizhou@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/zhou-hai.html (Site), 847-491-4155 (Phone).
+
+Qi Zhu is a Computer Science faculty member who holds the following position(s): ['Associate Professor of Electrical and Computer Engineering and (by courtesy) Computer Science']. Their educational background consists of: Tsinghua University for their Bachelor's, N/A for their Master's, University of California, Berkeley for their Doctorate. Their research interests include: system-level synthesis, optimization, verification, and modeling methodologies for intelligent cyber-physical systems. They will not be available during the following times: N/A. Their office is Tech Room L454 and they can be reached at: qzhu@northwestern.edu (Email), https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/zhu-qi.html (Site), N/A (Phone).
+
+Systems Lab is a Computer Science faculty member who holds the following position(s): N/A. Their educational background consists of: N/A for their Bachelor's, N/A for their Master's, N/A for their Doctorate. Their research interests include: N/A. They will not be available during the following times: N/A. Their office is 3103 and they can be reached at: N/A (Email), N/A (Site), N/A (Phone).
+
+Worsley Lab is a Computer Science faculty member who holds the following position(s): N/A. Their educational background consists of: N/A for their Bachelor's, N/A for their Master's, N/A for their Doctorate. Their research interests include: N/A. They will not be available during the following times: N/A. Their office is 3104 and they can be reached at: N/A (Email), N/A (Site), N/A (Phone).
+
+Suprovat Ghoshal is a Computer Science faculty member who holds the following position(s): N/A. Their educational background consists of: N/A for their Bachelor's, N/A for their Master's, N/A for their Doctorate. Their research interests include: N/A. They will not be available during the following times: N/A. Their office is 3217 and they can be reached at: N/A (Email), N/A (Site), N/A (Phone).
+
+Pardo Lab is a Computer Science faculty member who holds the following position(s): N/A. Their educational background consists of: N/A for their Bachelor's, N/A for their Master's, N/A for their Doctorate. Their research interests include: N/A. They will not be available during the following times: N/A. Their office is 3207 and they can be reached at: N/A (Email), N/A (Site), N/A (Phone).
+
+Eric Evert is a Computer Science faculty member who holds the following position(s): N/A. Their educational background consists of: N/A for their Bachelor's, N/A for their Master's, N/A for their Doctorate. Their research interests include: N/A. They will not be available during the following times: N/A. Their office is 3217 and they can be reached at: N/A (Email), N/A (Site), N/A (Phone).
+
+Esteban Carisimo is a Computer Science faculty member who holds the following position(s): N/A. Their educational background consists of: N/A for their Bachelor's, N/A for their Master's, N/A for their Doctorate. Their research interests include: N/A. They will not be available during the following times: N/A. Their office is 3527 and they can be reached at: N/A (Email), N/A (Site), N/A (Phone).
+
+Jinshuo Dong is a Computer Science faculty member who holds the following position(s): N/A. Their educational background consists of: N/A for their Bachelor's, N/A for their Master's, N/A for their Doctorate. Their research interests include: N/A. They will not be available during the following times: N/A. Their office is 3527 and they can be reached at: N/A (Email), N/A (Site), N/A (Phone).
+
+Quanquan Liu is a Computer Science faculty member who holds the following position(s): N/A. Their educational background consists of: N/A for their Bachelor's, N/A for their Master's, N/A for their Doctorate. Their research interests include: N/A. They will not be available during the following times: N/A. Their office is 3527 and they can be reached at: N/A (Email), N/A (Site), N/A (Phone).
+
+Samir Davies is a Computer Science faculty member who holds the following position(s): N/A. Their educational background consists of: N/A for their Bachelor's, N/A for their Master's, N/A for their Doctorate. Their research interests include: N/A. They will not be available during the following times: N/A. Their office is 3527 and they can be reached at: N/A (Email), N/A (Site), N/A (Phone).
+
+Fumeng Yang is a Computer Science faculty member who holds the following position(s): N/A. Their educational background consists of: N/A for their Bachelor's, N/A for their Master's, N/A for their Doctorate. Their research interests include: N/A. They will not be available during the following times: N/A. Their office is 3527 and they can be reached at: N/A (Email), N/A (Site), N/A (Phone).
+
+DTR Lab is a Computer Science faculty member who holds the following position(s): N/A. Their educational background consists of: N/A for their Bachelor's, N/A for their Master's, N/A for their Doctorate. Their research interests include: N/A. They will not be available during the following times: N/A. Their office is 3544 and they can be reached at: N/A (Email), N/A (Site), N/A (Phone).
+
+Indian Institute of Technology was attended for bachelors by ['Samir Khuller', 'Noshir Contractor', 'Aravindan Vijayaraghavan'].
+
+N/A was attended for bachelors by ['Kara Ahuja', 'Katherine Compton', 'Andrew Crotty', 'Jennifer Cutler', 'David Demeter', 'Christos Dimoulas', 'Andrew Fano', 'Julia Gaudio', 'Darren Gergle', 'Benjamin Golub', 'Ã\x81Gnes  Horvã¡T', 'Joseph Hummel', 'Matthew Kay', 'Sam Kriegman', 'Anastasia Kurdia', 'Manling Li', 'Han Liu', 'Duri Long', 'Yuan Luo', 'Miklos Racz', 'Kate Smith', 'John Villasenor', 'Rob Voigt', 'Zhaoran Wang', 'Systems Lab', 'Worsley Lab', 'Suprovat Ghoshal', 'Pardo Lab', 'Eric Evert', 'Esteban Carisimo', 'Jinshuo Dong', 'Quanquan Liu', 'Samir Davies', 'Fumeng Yang', 'DTR Lab'].
+
+Illinois Institute of Technology was attended for bachelors by ['Mohammed Alam'].
+
+Yale University was attended for bachelors by ['Emma Alexander', 'Larry Birnbaum', 'Kristian Hammond'].
+
+UCLA was attended for bachelors by ['Nabil Alshurafa'].
+
+Carnegie Mellon University was attended for bachelors by ['Brenna Argall', 'Robby Findler', 'Russell Joseph'].
+
+University of South Carolina was attended for bachelors by ['Connor Bain'].
+
+University of Illinois at Chicago was attended for bachelors by ['Sruti Bhagavatula'].
+
+Northwestern University was attended for bachelors by ['Jeremy Birnholtz'].
+
+Universidad Nacional de la Patagonia San Juan Bosco was attended for bachelors by ['Fabian Bustamante'].
+
+Politecnico di Milano was attended for bachelors by ['Simone Campanoni'].
+
+Zhejiang University was attended for bachelors by ['Yan Chen'].
+
+Birla Institue of Technology and Science was attended for bachelors by ['Alok Choudhary'].
+
+Evergreen State College was attended for bachelors by ['Oliver Cossairt'].
+
+Brown University was attended for bachelors by ['Nick Diakopoulos', 'Michael Horn'].
+
+University of Wisconsin, Madison was attended for bachelors by ['Peter Dinda'].
+
+Case Western Reserve University was attended for bachelors by ['Douglas Downey'].
+
+Reed College was attended for bachelors by ['Matthew Easterday'].
+
+MIT was attended for bachelors by ['Ken Forbus', 'Annie Liang'].
+
+Rutgers University was attended for bachelors by ['Steven Franconeri'].
+
+Dartmouth College was attended for bachelors by ['Elizabeth Gerber'].
+
+Michigan Technological University was attended for bachelors by ['Branden Ghena'].
+
+University of Illinois Urbana-Champaign was attended for bachelors by ['Joshua Glaser'].
+
+University of Science & Technology of China was attended for bachelors by ['Dongning Guo'].
+
+University of Crete was attended for bachelors by ['Nikos Hardavellas'].
+
+Cornell University was attended for bachelors by ['Jason Hartline', 'Mitra Hartmann'].
+
+University of Minnesota was attended for bachelors by ['Ian Horswill'].
+
+Tongji University was attended for bachelors by ['Huiling Hu'].
+
+The Ohio State University was attended for bachelors by ['Jessica Hullman', 'Bryan Pardo'].
+
+University of Wisconsin-Madison was attended for bachelors by ['Maia Jacobs'].
+
+National Taiwan University was attended for bachelors by ['Ming Yang Kao'].
+
+Aristotelian University of Thessaloniki was attended for bachelors by ['Aggelos Katsaggelos'].
+
+University of Belgrade was attended for bachelors by ['Aleksandar Kuzmanovic'].
+
+University of Michigan was attended for bachelors by ['Daniel W. Linna Jr.'].
+
+Moscow State University was attended for bachelors by ['Konstantin Makarychev'].
+
+University of Toronto was attended for bachelors by ['Malcolm Maciver'].
+
+Bogazici University was attended for bachelors by ['Seda Ogrenci'].
+
+Colby College was attended for bachelors by ["Eleanor O'Rourke"].
+
+Alfred University was attended for bachelors by ['Chris Riesbeck'].
+
+Rensselaer Polytechnic Institute was attended for bachelors by ['Jennie Rogers'].
+
+Purdue University was attended for bachelors by ['Michael Rubenstein'].
+
+DePaew University was attended for bachelors by ['Sara Owsley Sood'].
+
+Universite de Montreal was attended for bachelors by ['Vincent St Amour'].
+
+Birla Institute of Technology and Science was attended for bachelors by ['V.S. Subrahmanian'].
+
+Georgia Institute of Technology was attended for bachelors by ['Jack Tumblin'].
+
+Hong Kong University of Science and Technology was attended for bachelors by ['Xiao Wang'].
+
+Brandeis University was attended for bachelors by ['Uri Wilensky'].
+
+Carleton College was attended for bachelors by ['Zach Wood Doughty'].
+
+Stanford University was attended for bachelors by ['Marcelo Worsley'].
+
+Huazhong University of Science and Technology was attended for bachelors by ['Ying Wu'].
+
+Beihang University was attended for bachelors by ['Xinyu Xing'].
+
+Harvard University was attended for bachelors by ['Haoqi Zhang'].
+
+Tsinghua University was attended for bachelors by ['Hai Zhou', 'Qi Zhu'].
+
+Cornell University was attended for masters by ['Samir Khuller'].
+
+N/A was attended for masters by ['Kara Ahuja', 'Katherine Compton', 'Andrew Crotty', 'David Demeter', 'Christos Dimoulas', 'Robby Findler', 'Julia Gaudio', 'Darren Gergle', 'Joshua Glaser', 'Benjamin Golub', 'Ã\x81Gnes  Horvã¡T', 'Joseph Hummel', 'Maia Jacobs', 'Matthew Kay', 'Sam Kriegman', 'Anastasia Kurdia', 'Manling Li', 'Annie Liang', 'Han Liu', 'Duri Long', 'Yuan Luo', 'Konstantin Makarychev', 'Miklos Racz', 'Kate Smith', 'Vincent St Amour', 'John Villasenor', 'Rob Voigt', 'Xiao Wang', 'Zhaoran Wang', 'Haoqi Zhang', 'Qi Zhu', 'Systems Lab', 'Worsley Lab', 'Suprovat Ghoshal', 'Pardo Lab', 'Eric Evert', 'Esteban Carisimo', 'Jinshuo Dong', 'Quanquan Liu', 'Samir Davies', 'Fumeng Yang', 'DTR Lab'].
+
+Northwestern University was attended for masters by ['Mohammed Alam', 'Seda Ogrenci', 'Sara Owsley Sood'].
+
+Harvard University was attended for masters by ['Emma Alexander', 'Steven Franconeri'].
+
+UCLA was attended for masters by ['Nabil Alshurafa'].
+
+Carnegie Mellon University was attended for masters by ['Brenna Argall', 'Sruti Bhagavatula', 'Peter Dinda', 'Matthew Easterday'].
+
+University of South Carolina was attended for masters by ['Connor Bain'].
+
+Yale University was attended for masters by ['Larry Birnbaum', 'Kristian Hammond'].
+
+University of Michigan was attended for masters by ['Jeremy Birnholtz'].
+
+Georgia Institute of Technology was attended for masters by ['Fabian Bustamante', 'Nick Diakopoulos', 'Aggelos Katsaggelos'].
+
+Politecnico di Milano was attended for masters by ['Simone Campanoni'].
+
+State University of New York was attended for masters by ['Yan Chen'].
+
+University of Massachusetts was attended for masters by ['Alok Choudhary'].
+
+University of Southern California was attended for masters by ['Noshir Contractor', 'Michael Rubenstein', 'Jack Tumblin'].
+
+MIT was attended for masters by ['Oliver Cossairt', 'Ken Forbus', 'Ian Horswill'].
+
+Brown University was attended for masters by ['Jennifer Cutler', 'Jennie Rogers'].
+
+University of Washington, Seattle was attended for masters by ['Douglas Downey', 'Jason Hartline', "Eleanor O'Rourke"].
+
+Vassar University was attended for masters by ['Andrew Fano'].
+
+Stanford University was attended for masters by ['Elizabeth Gerber', 'Chris Riesbeck', 'Marcelo Worsley'].
+
+University of Michigan, Ann Arbor was attended for masters by ['Branden Ghena', 'Jessica Hullman'].
+
+National University of Singapore was attended for masters by ['Dongning Guo'].
+
+University of Rochester was attended for masters by ['Nikos Hardavellas'].
+
+California Institute of Technology was attended for masters by ['Mitra Hartmann'].
+
+Tufts University was attended for masters by ['Michael Horn'].
+
+University of Maryland College Park was attended for masters by ['Huiling Hu'].
+
+Princeton University was attended for masters by ['Russell Joseph', 'Aravindan Vijayaraghavan'].
+
+University of California was attended for masters by ['Ming Yang Kao'].
+
+University of Belgrade was attended for masters by ['Aleksandar Kuzmanovic'].
+
+Michigan State University was attended for masters by ['Daniel W. Linna Jr.'].
+
+University of Toronto was attended for masters by ['Malcolm Maciver'].
+
+The Ohio State University was attended for masters by ['Bryan Pardo'].
+
+Syracuse University was attended for masters by ['V.S. Subrahmanian'].
+
+Brandeis University was attended for masters by ['Uri Wilensky'].
+
+Johns Hopkins University was attended for masters by ['Zach Wood Doughty'].
+
+Tsinghua University was attended for masters by ['Ying Wu', 'Hai Zhou'].
+
+University of Colorado Boulder was attended for masters by ['Xinyu Xing'].
+
+Cornell University was attended for doctorate by ['Samir Khuller'].
+
+N/A was attended for doctorate by ['Kara Ahuja', 'Andrew Crotty', 'David Demeter', 'Julia Gaudio', 'Darren Gergle', 'Ã\x81Gnes  Horvã¡T', 'Joseph Hummel', 'Matthew Kay', 'Sam Kriegman', 'Anastasia Kurdia', 'Manling Li', 'Duri Long', 'Miklos Racz', 'Kate Smith', 'John Villasenor', 'Rob Voigt', 'Zhaoran Wang', 'Systems Lab', 'Worsley Lab', 'Suprovat Ghoshal', 'Pardo Lab', 'Eric Evert', 'Esteban Carisimo', 'Jinshuo Dong', 'Quanquan Liu', 'Samir Davies', 'Fumeng Yang', 'DTR Lab'].
+
+Northwestern University was attended for doctorate by ['Mohammed Alam', 'Connor Bain', 'Andrew Fano', 'Joshua Glaser', 'Sara Owsley Sood'].
+
+Harvard University was attended for doctorate by ['Emma Alexander', 'Steven Franconeri', 'Annie Liang', 'Haoqi Zhang'].
+
+UCLA was attended for doctorate by ['Nabil Alshurafa', 'Seda Ogrenci'].
+
+Carnegie Mellon University was attended for doctorate by ['Brenna Argall', 'Sruti Bhagavatula', 'Peter Dinda', 'Matthew Easterday', 'Nikos Hardavellas', 'Han Liu'].
+
+Yale University was attended for doctorate by ['Larry Birnbaum', 'Kristian Hammond', 'Ming Yang Kao'].
+
+University of Michigan was attended for doctorate by ['Jeremy Birnholtz', 'Daniel W. Linna Jr.'].
+
+Georgia Institute of Technology was attended for doctorate by ['Fabian Bustamante', 'Nick Diakopoulos', 'Maia Jacobs', 'Aggelos Katsaggelos', 'Jack Tumblin', 'Xinyu Xing'].
+
+Politecnico di Milano was attended for doctorate by ['Simone Campanoni'].
+
+University of California Berkeley was attended for doctorate by ['Yan Chen'].
+
+University of Illinois at Urbana Champaign was attended for doctorate by ['Alok Choudhary', 'Malcolm Maciver', 'Ying Wu'].
+
+University of California, Santa Cruz was attended for doctorate by ['Katherine Compton'].
+
+University of Southern California was attended for doctorate by ['Noshir Contractor', 'Michael Rubenstein'].
+
+Columbia University was attended for doctorate by ['Oliver Cossairt'].
+
+Duke University was attended for doctorate by ['Jennifer Cutler'].
+
+Northeastern University was attended for doctorate by ['Christos Dimoulas', 'Vincent St Amour'].
+
+University of Washington, Seattle was attended for doctorate by ['Douglas Downey', 'Jason Hartline', "Eleanor O'Rourke"].
+
+Rice University was attended for doctorate by ['Robby Findler', 'Aleksandar Kuzmanovic'].
+
+MIT was attended for doctorate by ['Ken Forbus', 'Ian Horswill', 'Yuan Luo', 'Uri Wilensky'].
+
+Stanford Unversity was attended for doctorate by ['Elizabeth Gerber'].
+
+University of California, Berkeley was attended for doctorate by ['Branden Ghena', 'Qi Zhu'].
+
+Stanford University was attended for doctorate by ['Benjamin Golub', 'Chris Riesbeck', 'Marcelo Worsley'].
+
+Princeton University was attended for doctorate by ['Dongning Guo', 'Russell Joseph', 'Ming Yang Kao', 'Konstantin Makarychev', 'Aravindan Vijayaraghavan'].
+
+California Institute of Technology was attended for doctorate by ['Mitra Hartmann'].
+
+Tufts University was attended for doctorate by ['Michael Horn'].
+
+University of Maryland College Park was attended for doctorate by ['Huiling Hu', 'Xiao Wang'].
+
+University of Michigan, Ann Arbor was attended for doctorate by ['Jessica Hullman', 'Bryan Pardo'].
+
+Brown University was attended for doctorate by ['Jennie Rogers'].
+
+Syracuse University was attended for doctorate by ['V.S. Subrahmanian'].
+
+Johns Hopkins University was attended for doctorate by ['Zach Wood Doughty'].
+
+University of Texas, Austin was attended for doctorate by ['Hai Zhou'].
+
+graph algorithms is researched by ['Samir Khuller'].
+
+discrete optimization is researched by ['Samir Khuller'].
+
+computational geometry is researched by ['Samir Khuller'].
+
+N/A is researched by ['Kara Ahuja', 'Mohammed Alam', 'Sruti Bhagavatula', 'Katherine Compton', 'Andrew Crotty', 'Jennifer Cutler', 'David Demeter', 'Nick Diakopoulos', 'Matthew Easterday', 'Andrew Fano', 'Steven Franconeri', 'Julia Gaudio', 'Branden Ghena', 'Joshua Glaser', 'Benjamin Golub', 'Ã\x81Gnes  Horvã¡T', 'Huiling Hu', 'Anastasia Kurdia', 'Manling Li', 'Annie Liang', 'Duri Long', 'Yuan Luo', 'Malcolm Maciver', 'Miklos Racz', 'Kate Smith', 'John Villasenor', 'Rob Voigt', 'Uri Wilensky', 'Zach Wood Doughty', 'Xinyu Xing', 'Systems Lab', 'Worsley Lab', 'Suprovat Ghoshal', 'Pardo Lab', 'Eric Evert', 'Esteban Carisimo', 'Jinshuo Dong', 'Quanquan Liu', 'Samir Davies', 'Fumeng Yang', 'DTR Lab'].
+
+low-level, bio-inspired, physics-based computer vision is researched by ['Emma Alexander'].
+
+health is researched by ['Nabil Alshurafa', 'Maia Jacobs'].
+
+body sensor networks is researched by ['Nabil Alshurafa'].
+
+behavioral science is researched by ['Nabil Alshurafa', 'Maia Jacobs'].
+
+data analytics is researched by ['Nabil Alshurafa'].
+
+embedded systems is researched by ['Nabil Alshurafa'].
+
+algorithm design is researched by ['Nabil Alshurafa'].
+
+intersection of artificial intelligence is researched by ['Brenna Argall'].
+
+rehabilitation robots is researched by ['Brenna Argall'].
+
+machine learning is researched by ['Brenna Argall', 'Larry Birnbaum', 'Alok Choudhary', 'Douglas Downey', 'Dongning Guo'].
+
+support learners in developing authentic computational thinking skills is researched by ['Connor Bain'].
+
+applied AI and human-AI collaboration is researched by ['Larry Birnbaum'].
+
+natural language processing is researched by ['Larry Birnbaum', 'Douglas Downey'].
+
+conversational interfacs is researched by ['Larry Birnbaum'].
+
+intelligent information systems is researched by ['Larry Birnbaum'].
+
+social media data analytics is researched by ['Larry Birnbaum'].
+
+online coordination, collaboration, and interaction is researched by ['Jeremy Birnholtz'].
+
+internet-scale computer networks is researched by ['Fabian Bustamante'].
+
+distributed systems is researched by ['Fabian Bustamante'].
+
+compilers is researched by ['Simone Campanoni', 'Joseph Hummel', 'Vincent St Amour'].
+
+computer architecture is researched by ['Simone Campanoni', 'Russell Joseph'].
+
+runtime systems is researched by ['Simone Campanoni'].
+
+operating systems is researched by ['Simone Campanoni'].
+
+programming languages is researched by ['Simone Campanoni', 'Christos Dimoulas', 'Robby Findler', 'Joseph Hummel'].
+
+security, measurement, and diagnosis for network and large-scale distributed systems is researched by ['Yan Chen'].
+
+big data science is researched by ['Alok Choudhary'].
+
+supercomputing is researched by ['Alok Choudhary'].
+
+scalable data mining is researched by ['Alok Choudhary'].
+
+AI and its applications in sciences is researched by ['Alok Choudhary'].
+
+network science is researched by ['Noshir Contractor'].
+
+computational social science is researched by ['Noshir Contractor'].
+
+web science is researched by ['Noshir Contractor'].
+
+computational imaging, which combines expertise in optics, image processing, computer vision, and computer graphics is researched by ['Oliver Cossairt'].
+
+virtualization and operating systems for distributed and parallel computing is researched by ['Peter Dinda'].
+
+programming languages for parallel computing is researched by ['Peter Dinda'].
+
+empathic systems for bridging individual user satisfaction and systems-level decision-making is researched by ['Peter Dinda'].
+
+artificial intelligence is researched by ['Douglas Downey'].
+
+automatic construction of useful knowledge bases from Web text is researched by ['Douglas Downey'].
+
+program development environments, contracts, and tools to help semantics engineers is researched by ['Robby Findler'].
+
+qualitative reasoning, analogical reasoning and learning, spatial reasoning is researched by ['Ken Forbus'].
+
+sketch understanding, natural language understanding is researched by ['Ken Forbus'].
+
+cognitive architecture, reasoning system design, intelligent educational software is researched by ['Ken Forbus'].
+
+collective innovation, an innovation process that harnesses the diverse and untapped human, social, and economic capital from distributed networks to discover, evaluate, and implement new ideas is researched by ['Elizabeth Gerber'].
+
+Human Computer Interaction is researched by ['Darren Gergle'].
+
+Computer-Supported Cooperative Work is researched by ['Darren Gergle'].
+
+Computer_Mediated Communication is researched by ['Darren Gergle'].
+
+the role that visual information plays in supporting communication and group interactions is researched by ['Darren Gergle'].
+
+application of social and cognitive psychology theory to the design, deployment and evaluation of computing technologies is researched by ['Darren Gergle'].
+
+blockchain technologies is researched by ['Dongning Guo'].
+
+wireless communications is researched by ['Dongning Guo'].
+
+information theory is researched by ['Dongning Guo'].
+
+communication networks is researched by ['Dongning Guo'].
+
+Developing human capabilities onto machines Co-founded Narrative Science, a startup that uses artificial intelligence and journalism to turn information from raw data into natural language Integrating Computer Science and Artificial Intelligent into all aspects of life is researched by ['Kristian Hammond'].
+
+parallel systems and computer architecture is researched by ['Nikos Hardavellas'].
+
+techniques to enable extreme-scale multicore processors and practical quantum systems, accelerating the advent of practical quantum computing through innovation at the quantum system stack is researched by ['Nikos Hardavellas'].
+
+design and analysis methodologies from computer science to understand and improve outcomes of economic systems is researched by ['Jason Hartline'].
+
+sensorimotor integration is researched by ['Mitra Hartmann'].
+
+robots as tools for studying neuroscience is researched by ['Mitra Hartmann'].
+
+sensory acquisition behaviors is researched by ['Mitra Hartmann'].
+
+neuroethology is researched by ['Mitra Hartmann'].
+
+emerging interactive technology in the design of novel learning experiences is researched by ['Michael Horn'].
+
+Using artificial intelligence to expand the expressive potential of computational media such as games and interactive narrative is researched by ['Ian Horswill'].
+
+Challenges and limitations that arise when people theorize and draw inductive inferences from data, uncertainty representation and interactive data analysis is researched by ['Jessica Hullman'].
+
+high-performance computing is researched by ['Joseph Hummel'].
+
+undergraduate research is researched by ['Joseph Hummel'].
+
+human-computer interaction is researched by ['Maia Jacobs'].
+
+machine learning + design is researched by ['Maia Jacobs'].
+
+microprocessor desgn for reliability and variability tolerance is researched by ['Russell Joseph'].
+
+power-aware computing is researched by ['Russell Joseph'].
+
+computer algorithms and their applications, algorithms for computational finance and economics, nano technology (self-assembly), computational biology, data security, graph theory, parallel computing, and combinatorial optimization is researched by ['Ming Yang Kao'].
+
+Artificial Intelligence is researched by ['Aggelos Katsaggelos', 'Haoqi Zhang'].
+
+Machine Learning is researched by ['Aggelos Katsaggelos'].
+
+Multimedia Signal Processing, Multimedia Communications is researched by ['Aggelos Katsaggelos'].
+
+Computational Imaging, Computer Vision is researched by ['Aggelos Katsaggelos'].
+
+Medical and Biological Signal Processing, DNA Signal Processing, Scientific Studies in the Arts. is researched by ['Aggelos Katsaggelos'].
+
+human-computer interaction and information visualization is researched by ['Matthew Kay'].
+
+uncertainty visualization is researched by ['Matthew Kay'].
+
+personal health informatics is researched by ['Matthew Kay'].
+
+design of human-centered tools for data analysis is researched by ['Matthew Kay'].
+
+auction theory and mechanism design is researched by ['Sam Kriegman'].
+
+computer networking with emphasis on design, measurements, analysis, denial-of-service resiliency, and prototype implementation of protocols and algorithms for the Internet is researched by ['Aleksandar Kuzmanovic'].
+
+low-rate denial-of-service attacks, TCP congestion control, and data sharing methods for Internet-scale systems is researched by ['Aleksandar Kuzmanovic'].
+
+innovation and technology, including computational law, artificial intelligence, data analytics, leadership, operations, and innovation frameworks is researched by ['Daniel W. Linna Jr.'].
+
+modern artificial intelligence, which exploits computation and data as a lens to explore machine intelligence is researched by ['Han Liu'].
+
+approximation algorithms is researched by ['Konstantin Makarychev'].
+
+beyond worst-case analysis is researched by ['Konstantin Makarychev'].
+
+applications of high-dimension geometry in computer science. is researched by ['Konstantin Makarychev'].
+
+Design Automation, real-time edge AI/ML for science, thermal aware design of circuits and systems, thermal sensing and cooling systems for high performance systems, power and energy aware memory systems. is researched by ['Seda Ogrenci'].
+
+Human-Computer Interaction and Learning Sciences, designing data-driven learning environments and educational games to improve student motivation, provide personalized learning experiences, and support formative assessment is researched by ["Eleanor O'Rourke"].
+
+machines that understand and manipulate sound is researched by ['Bryan Pardo'].
+
+methods in Machine Learning (e.g. automated gradient clipping), and Signal Processing (e.g. the Multi-scale Common-fate Transform) and apply them to new kinds of user interfaces and interactions is researched by ['Bryan Pardo'].
+
+Agile software development is researched by ['Chris Riesbeck'].
+
+Technology-enabled educational reform is researched by ['Chris Riesbeck'].
+
+Experiential knowledge-based language understanding and reasoning is researched by ['Chris Riesbeck'].
+
+Trustworthy database systems, secure data sharing, privacy-preserving analytics, database query optimization, personal use of big data, data science, database performance. is researched by ['Jennie Rogers'].
+
+advance the control and design of multi-robot systems, enabling their use instead of traditional single robots and to solve problems for which traditional robots are not suitable is researched by ['Michael Rubenstein'].
+
+understanding the expression and impact of emotion in online communication is researched by ['Sara Owsley Sood'].
+
+Programming tools is researched by ['Vincent St Amour'].
+
+language and library building is researched by ['Vincent St Amour'].
+
+extensible languages is researched by ['Vincent St Amour'].
+
+intersection of AI and security problems is researched by ['V.S. Subrahmanian'].
+
+develops machine learning based models to analyze text/geospatial/relational/social network data is researched by ['V.S. Subrahmanian'].
+
+learn behavioral models from the data, forecast actions, and influence outcomes is researched by ['V.S. Subrahmanian'].
+
+computer graphics is researched by ['Jack Tumblin'].
+
+computational photography is researched by ['Jack Tumblin'].
+
+Theoretical Computer Science, particularly, in designing efficient algorithms for problems in machine learning, high-dimensional data analysis, quantum information and other NP-hard optimization problems is researched by ['Aravindan Vijayaraghavan'].
+
+Computer security, privacy, and cryptography is researched by ['Xiao Wang'].
+
+data-driven decision-making methods, theory, and systems, which tailor artificial intelligence towards addressing pressing societal challenges, machine learning, optimization, statistics, game theory, and information theory. is researched by ['Zhaoran Wang'].
+
+technological innovations for supporting inclusive learning and teaching is researched by ['Marcelo Worsley'].
+
+Computer vision is researched by ['Ying Wu'].
+
+Autonomous robots and intelligent machines is researched by ['Ying Wu'].
+
+Statistical learning and pattern recognition is researched by ['Ying Wu'].
+
+Multi-modal perception and intelligent interaction is researched by ['Ying Wu'].
+
+Multimedia data mining is researched by ['Ying Wu'].
+
+analytics and management is researched by ['Ying Wu'].
+
+Biomedical image processing and medical applications is researched by ['Ying Wu'].
+
+design of integrated socio-technical models that solve complex problems and advance human values at scale is researched by ['Haoqi Zhang'].
+
+Human-Computer Interaction is researched by ['Haoqi Zhang'].
+
+Social and Crowd Computing is researched by ['Haoqi Zhang'].
+
+Learning Science is researched by ['Haoqi Zhang'].
+
+Decision Science is researched by ['Haoqi Zhang'].
+
+Logical Methods for Computer Systems (LogiCS), algorithms, formal methods, optimization, and their applications to security, machine learning, and economics is researched by ['Hai Zhou'].
+
+system-level synthesis, optimization, verification, and modeling methodologies for intelligent cyber-physical systems is researched by ['Qi Zhu'].
+
+Position Peter and Adrienne Barris Chair of Computer Science is held by ['Samir Khuller'].
+
+Position Professor of Computer Science is held by ['Samir Khuller', 'Larry Birnbaum', 'Fabian Bustamante', 'Yan Chen', 'Douglas Downey', 'Robby Findler', 'Kristian Hammond', 'Jason Hartline', 'Michael Horn', 'Aleksandar Kuzmanovic', 'Konstantin Makarychev', 'Seda Ogrenci', 'Bryan Pardo', 'Uri Wilensky'].
+
+Position Assistant Professor of Computer Science beginning on September 1st, 2024 is held by ['Kara Ahuja'].
+
+Position Assistant Professor of Instruction is held by ['Mohammed Alam', 'Connor Bain', 'Sruti Bhagavatula', 'Katherine Compton', 'Branden Ghena', 'Huiling Hu', 'Zach Wood Doughty'].
+
+Position Deputy Director of the Master of Science in Artificial Intelligence Program is held by ['Mohammed Alam'].
+
+Position Assistant Professor of Computer Science is held by ['Emma Alexander', 'Andrew Crotty', 'Christos Dimoulas', 'Maia Jacobs', 'Matthew Kay', 'Sam Kriegman', 'Miklos Racz', 'Michael Rubenstein', 'Xiao Wang', 'Marcelo Worsley'].
+
+Position Associate Professor of Preventive Medicine and (by courtesy) Computer Science and Electrical and Computer Engineering is held by ['Nabil Alshurafa'].
+
+Position Associate Professor of Computer Science is held by ['Brenna Argall', 'Oliver Cossairt', 'Nikos Hardavellas', 'Ian Horswill', 'Jessica Hullman', 'Russell Joseph', 'Han Liu', 'Chris Riesbeck', 'Jennie Rogers', 'Jack Tumblin', 'Xinyu Xing', 'Haoqi Zhang'].
+
+Position Associate Professor of Mechanical Engineering is held by ['Brenna Argall'].
+
+Position Associate Professor of Physical Medicine and Rehabilitation is held by ['Brenna Argall'].
+
+Position Associate Professor of Communication Studies and (by courtesy) Associate Professor of Computer Science is held by ['Jeremy Birnholtz'].
+
+Position Co-Director of Graduate Admissions is held by ['Fabian Bustamante'].
+
+Position Assistant Professor of Computer Science and (by courtesy) Electrical and Computer Engineering is held by ['Simone Campanoni'].
+
+Position Henry and Isabelle Dever Professor of Electrical and Computer Engineering and (by courtesy) Computer Science is held by ['Alok Choudhary'].
+
+Position Jane S. and William J. White Professor of Behavioral Sciences in Industrial Engineering & Management Sciences and (by courtesy) Computer Science is held by ['Noshir Contractor'].
+
+Position Professor of Communication Studies is held by ['Noshir Contractor', 'Elizabeth Gerber'].
+
+Position Professor of Management and Organizations is held by ['Noshir Contractor'].
+
+Position Associate Professor of Electrical and Computer Engineering is held by ['Oliver Cossairt', 'Nikos Hardavellas', 'Russell Joseph'].
+
+Position Associate Professor of Marketing and (by courtesy) Computer Science is held by ['Jennifer Cutler'].
+
+Position Assistant Professor of Instruction (joining Sep 1, 2023) is held by ['David Demeter'].
+
+Position Associate Professor of Communication Studies and (by courtesy) Computer Science is held by ['Nick Diakopoulos'].
+
+Position Professor of Computer Science and (by courtesy) Electrical and Computer Engineering is held by ['Peter Dinda'].
+
+Position Assistant Professor of Learning Sciences and (by courtesy) Computer Science is held by ['Matthew Easterday'].
+
+Position McCormick Director, Kellogg-McCormick MBAi is held by ['Andrew Fano'].
+
+Position Clinical Professor is held by ['Andrew Fano'].
+
+Position Associate Chair is held by ['Robby Findler'].
+
+Position Walter P. Murphy Professor of Computer Science is held by ['Ken Forbus', 'V.S. Subrahmanian'].
+
+Position Professor of Psychology and (by courtesy) Computer Science is held by ['Steven Franconeri'].
+
+Position Research Assistant Professor in Industrial Engineering and Management Sciences and (by courtesy) Computer Science is held by ['Julia Gaudio'].
+
+Position Professor of Mechanical Engineering and (by courtesy) Computer Science is held by ['Elizabeth Gerber'].
+
+Position Co-Director, Center for Human Computer Interaction + Design is held by ['Elizabeth Gerber'].
+
+Position Professor, Communication Studies and (by courtesy) Computer Science is held by ['Darren Gergle'].
+
+Position Assistant Professor of Neurology - Ken and Ruth Davee Department and (by courtesy) Computer Science is held by ['Joshua Glaser'].
+
+Position Professor of Economics and (by courtesy) Computer Science is held by ['Benjamin Golub'].
+
+Position Professor of Electrical and Computer Engineering and (by courtesy) Computer Science is held by ['Dongning Guo', 'Aggelos Katsaggelos', 'Ying Wu'].
+
+Position Bill and Cathy Osborn Professor is held by ['Kristian Hammond'].
+
+Position Professor of Biomedical Engineering, Mechanical Engineering, and (by courtesy) Computer Science is held by ['Mitra Hartmann', 'Malcolm Maciver'].
+
+Position Professor of Education and Social Policy is held by ['Michael Horn', 'Uri Wilensky'].
+
+Position Charles Deering McCormick Professor of Teaching Excellence is held by ['Ian Horswill'].
+
+Position Assistant Professor in Communication Studies and (by courtesy) Computer Science  is held by ['Ã\x81Gnes  Horvã¡T'].
+
+Position Ginni Rometty Professor is held by ['Jessica Hullman'].
+
+Position Professor of Instruction is held by ['Joseph Hummel', 'Sara Owsley Sood'].
+
+Position Assistant Professor of Preventive Medicine is held by ['Maia Jacobs'].
+
+Position Lisa Wissner-Slivka and Benjamin Slivka Professor of Computer Science is held by ['Maia Jacobs'].
+
+Position Professor Emeritus of Computer Science is held by ['Ming Yang Kao'].
+
+Position Joseph Cummings Professor is held by ['Aggelos Katsaggelos'].
+
+Position Assistant Professor of Communication Studies is held by ['Matthew Kay'].
+
+Position Assistant Professor of Mechanical Engineering is held by ['Sam Kriegman', 'Michael Rubenstein'].
+
+Position Assistant Professor of Chemical and Biological Engineering is held by ['Sam Kriegman'].
+
+Position Professor of Instruction (joining Aug 1, 2023) is held by ['Anastasia Kurdia'].
+
+Position Assistant Professor of Computer Science (joining Fall 2024) is held by ['Manling Li'].
+
+Position Assistant Professor of Economics and (by courtesy) Computer Science is held by ['Annie Liang'].
+
+Position Senior Lecturer in the Pritzker School of Law and Computer Science is held by ['Daniel W. Linna Jr.'].
+
+Position Associate Professor of Statistics is held by ['Han Liu'].
+
+Position Assistant Professor of Communication Studies and (by courtesy) Computer Science is held by ['Duri Long'].
+
+Position Associate Professor, Feinberg School of Medicine and (by courtesy) Industrial Engineering & Management Sciences and Computer Science is held by ['Yuan Luo'].
+
+Position Associate Chair for Graduate Studies is held by ['Konstantin Makarychev'].
+
+Position Professor of Electrical and Computer Engineering is held by ['Seda Ogrenci'].
+
+Position Assistant Professor of Computer Science  is held by ["Eleanor O'Rourke"].
+
+Position Assistant Professor of Education and Social Policy is held by ["Eleanor O'Rourke", 'Marcelo Worsley'].
+
+Position Professor of Radio, Television and Film is held by ['Bryan Pardo'].
+
+Position Assistant Professor of Statistics is held by ['Miklos Racz'].
+
+Position Co-Director of Graduate Admissions in Computer Science is held by ['Michael Rubenstein'].
+
+Position Assistant Professor of Computer Science (joining Jan 1, 2024) is held by ['Kate Smith'].
+
+Position Chookaszian Family Teaching Professor is held by ['Sara Owsley Sood'].
+
+Position Associate Chair for Undergraduate Education is held by ['Sara Owsley Sood'].
+
+Position Associate Professor of Instruction is held by ['Vincent St Amour'].
+
+Position Faculty Fellow at the Northwestern Buffett Institute for Global Affairs  is held by ['V.S. Subrahmanian'].
+
+Position Associate Professor of Computer Science and (by courtesy) Industrial Engineering & Management Sciences is held by ['Aravindan Vijayaraghavan'].
+
+Position Adjunct Professor is held by ['John Villasenor'].
+
+Position Assistant Professor of Linguistics and (by courtesy) Computer Science  is held by ['Rob Voigt'].
+
+Position Assistant Professor of Industrial Engineering and Management Sciences and (by courtesy) Computer Science is held by ['Zhaoran Wang'].
+
+Position Lorraine Morton Professor is held by ['Uri Wilensky'].
+
+Position Associate Professor of Electrical and Computer Engineering and (by courtesy) Computer Science is held by ['Hai Zhou', 'Qi Zhu'].
+
+Position N/A is held by ['Systems Lab', 'Worsley Lab', 'Suprovat Ghoshal', 'Pardo Lab', 'Eric Evert', 'Esteban Carisimo', 'Jinshuo Dong', 'Quanquan Liu', 'Samir Davies', 'Fumeng Yang', 'DTR Lab'].
+
+There is an event called CS Seminar: Why Do Students Think They're Bad at Programming? Towards Intelligent Systems to Support Motivation and Learning in CS1(Nell O'Rourke). Day of event: 10/23/2023. Time of event: 12:00 PM to 1:00 PM. Event Description: In this talk, I will introduce a surprising motivational challenge in the domain of computer science education: students often think they're bad at programming, even when they are performing well. I will present a series of studies showing that students in introductory courses assess their own programming ability frequently, using criteria that are often misaligned with best practices (e.g. "I should be able to debug quickly based off a first glance"; "I shouldn't have to sit there and think"). Then, I will show how we can use these self-assessment criteria as a lens to better understand student experiences and the ways they approach learning. Finally, I will present research exploring the design of intelligent programming environments that can automatically detect potential self-assessment moments and provide feedback to help students re-frame these experiences. Through this body of work, I will demonstrate the value of conducting research that crosses the boundaries of human-computer interaction and the learning sciences to deeply understand learning contexts and inform the design of novel learning environments.. Event Location: 3514, Mudd Hall ( formerly Seeley G. Mudd Library). Event Speaker: Eleanor O'Rourke. 
+
+There is an event called CS Student Seminar: Rashna Kumar. Day of event: 10/24/2023. Time of event: 12:00 PM to 1:00 PM. 
+
+There is an event called Professional Development Series: Handling and Resolving Conflict. Day of event: 10/25/2023. Time of event: 12:00 PM to 1:00 PM. Event Description: Join us for a series of professional development events hosted by McCormick HR. The second fall event of the series will focus on handling and resolving conflict.. Event Location: 101 Wildcat Room, Norris University Center. 
+
+There is an event called CS Seminar: Reshaping Computer Systems for the New Hardware Landscape (Nikos Hardavellas). Day of event: 10/25/2023. Time of event: 12:00 PM to 1:00 PM. Event Description: Modern computer systems have been built on foundations that were devised decades ago. However, computer hardware has changed significantly since then, as have the demands of users. Many of these foundational concepts still serve us well. On several occasions, though, the decades-old customary practice prevents us from realizing better figures of merit, such as higher performance, lower power, lower energy consumption or easier programming. CMOS transistors have served us well for six decades, but severely constrain us today; emerging devices offer exciting new opportunities. Memory systems were conceptualized in the ‘60s, but struggle to harness the capabilities of contemporary technologies; sophisticated users and hardware already go to great lengths to circumvent their aged abstractions. Parallel programming is still a formidable endeavor, but no system today, not even a single core, can deliver more than half its peak performance without it. In this talk, I will discuss our efforts to rethink some of the aspects of present-day computer systems and reshape them for the new hardware landscape.. Event Location: 3514, Mudd Hall ( formerly Seeley G. Mudd Library). Event Speaker: Nikos Hardavellas. 
+
+There is an event called Trust Perspectives in Machine Learning, Law, and Public Policy. Day of event: 10/26/2023. Time of event: 9:00 AM to 5:00 PM. Event Description: We are happy to announce the IDEAL Fall 2023 Special Program on Trustworthy and Reliable Data Science. The special program has an exciting series of workshops, courses, seminars and other activities. 'Trust Perspectives in Machine Learning, Law, and Public Policy' workshop will be on Thursday, October 26th and Friday, October 27th at Mudd Library 3rd floor, 3514.. Event Location: 3514, Mudd Hall ( formerly Seeley G. Mudd Library). 
+
+There is an event called TGIT Bagels. Day of event: 10/26/2023. Time of event: 9:30 AM to 10:30 PM. 
+
+There is an event called Trust Perspectives in Machine Learning, Law, and Public Policy. Day of event: 10/27/2023. Time of event: 9:00 AM to 5:00 PM. Event Description: We are happy to announce the IDEAL Fall 2023 Special Program on Trustworthy and Reliable Data Science. The special program has an exciting series of workshops, courses, seminars and other activities. 'Trust Perspectives in Machine Learning, Law, and Public Policy' workshop will be on Thursday, October 26th and Friday, October 27th at Mudd Library 3rd floor, 3514.. Event Location: 3514, Mudd Hall ( formerly Seeley G. Mudd Library). 
+
+There is an event called Racketcon. Day of event: 10/28/2023. Time of event: 9:00 AM to 5:00 PM. Event Location: Ryan Auditorium, Technological Institute. 
+
+There is an event called Racketcon. Day of event: 10/29/2023. Time of event: 9:00 AM to 5:00 PM. Event Location: Ryan Auditorium, Technological Institute. 
+
+There is an event called CS Seminar: Fortifying Cloud Data Privacy: Achieving Fault Tolerance and High Performance in Oblivious Databases (Sujaya Maiyya). Day of event: 10/30/2023. Time of event: 12:00 PM to 1:00 PM. Event Location: 3514, Mudd Hall ( formerly Seeley G. Mudd Library). Event Speaker: Sujaya Maiyya. 
+
+There is an event called CS Winter Advising Social. Day of event: 11/01/2023. Time of event: 12:00 PM to 1:15 PM. Event Description: Meet with CS academic advisors, professors, and seniors who can help you prepare for Winter class registration.. Event Location: Ford Design Studio 1 Rm 1230, Technological Institute. 
+
+There is an event called CS Distinguished Lecture: Computer Architectures for Neural Interfaces (Abhishek Bhattacharjee). Day of event: 11/02/2023. Time of event: 12:00 PM to 1:00 PM. Event Location: 3514, Mudd Hall ( formerly Seeley G. Mudd Library). Event Speaker: Abhishek Bhattacharjee. 
+
+There is an event called CS Seminar (Magdalena Balazinska). Day of event: 11/06/2023. Time of event: 12:00 PM to 1:00 PM. Event Location: 3514, Mudd Hall ( formerly Seeley G. Mudd Library). Event Speaker: Magdalena Balazinska. 
+
+There is an event called CS Student Seminar: Stefany Cruz. Day of event: 11/14/2023. Time of event: 12:00 PM to 1:00 PM. Event Speaker: Stefany Cruz. 
+
+There is an event called New Perspectives on Data Science with Imperfect Data. Day of event: 11/16/2023. Time of event: 9:00 AM to 5:00 PM. Event Description: We are happy to announce the IDEAL Fall 2023 Special Program on Trustworthy and Reliable Data Science. The special program has an exciting series of workshops, courses, seminars and other activities. 'New Perspectives on Data Science with Imperfect Data' workshop will be on Thursday, November 16th on Mudd Library 3rd floor, 3514.. Event Location: Mudd 3514, Mudd Hall ( formerly Seeley G. Mudd Library). 
+
+There is an event called TGIT Bagels. Day of event: 11/30/2023. Time of event: 9:30 AM to 10:30 AM. 
+
+There is an event called CS401 Poster Session. Day of event: 11/27/2023. Time of event: 10:00 AM to 11:30 AM. Event Description: Come learn more and connect with CS Phd Students about their research interests!. Event Location: 3514, Mudd Hall ( formerly Seeley G. Mudd Library)   . 
+
+There is an event called CS Student Seminar: Gustavo Umbelino. Day of event: 11/28/2023. Time of event: 12:00 PM to 1:00 PM. 
+
+There is an event called Professional Development Series: Giving and Receiving Feedback. Day of event: 11/29/2023. Time of event: 12:00 PM to 1:30 PM. Event Description: Join us for a series of professional development events hosted by McCormick HR. The third and final fall event of the series will focus on giving and receiving feedback. This session is an interactive and practice-focused program designed to prepare participants for a variety of feedback situations including performance evaluations and ongoing feedback and coaching.. Event Location: 202 Northwestern Room, Norris University Center. 
+
+There is an event called CS Seminar. Day of event: 11/29/2023. Time of event: 12:00 PM to 1:00 PM. 
+
+There is an event called JQTW. Day of event: 11/30/2023. Time of event: 9:00 AM to 5:00 PM. Event Location: Mudd Hall ( formerly Seeley G. Mudd Library). 
+
+There is an event called TGIT Bagels. Day of event: 11/30/2023. Time of event: 9:30 AM to 10:30 AM. 
+
+There is an event called JQTW. Day of event: 12/1/2023. Time of event: 9:00 AM to 5:00 PM. Event Location: 6045 S Kenwood Ave. 
+
+There is an event called CS Seminar (Rajeev Thakur). Day of event: 12/4/2023. Time of event: 12:00 PM to 1:00 PM. Event Location: 3514, Mudd Hall ( formerly Seeley G. Mudd Library). 
+
+There is an event called CS Seminar (Ermin Wei). Day of event: 1/8/2024. Time of event: 12:00 PM to 1:00 PM. Event Location: 3514, Mudd Hall ( formerly Seeley G. Mudd Library). 
+
+There is an event called CS Seminar (Matt Groh). Day of event: 1/17/2023. Time of event: 12:00 PM to 1:00 PM. Event Location: 3514, Mudd Hall ( formerly Seeley G. Mudd Library). 
+
+There is an event called CS Seminar (Nivedita Arora). Day of event: 1/24/2023. Time of event: 12:00 PM to 1:00 PM. Event Location: 3514, Mudd Hall ( formerly Seeley G. Mudd Library). 
+
