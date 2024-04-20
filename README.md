@@ -46,8 +46,7 @@ ClassCode.py- module was written by Kristian Hammond to communicate with the ava
 
 GreeterDemo.py- module was written by Kristian Hammond to communicate with the avatar available at url http://the-singularity-show.com/pages/CS338/greeter.html. speak() calls ClassCode.purge() to clear the text queue for the avatar and calls paragraphSpeak().
 
-client.py- 
-
+client.py- connects to the EC2 instance that is running the server of the LLM and is always listening to the user for questions to ask the LLM. execute_remote_query() connects to the ec2 instance and curls to hit the endpoint query_func with the query from the user and returns the response in text. recognize_speech_from_mic() listens to the user and parses the speech into text. Starting the program, you enter an infinite loop. The program spins on recognize_speech_from_mic(), and once the function hears and is able to parse a verbal question into text, it will call execute_remote_query() with the text. After the LLM is able to generate a response text and send it back to the client, then the program will call speak() with the response text, which sends the text to the avatar who reads it aloud.
 
 
 
