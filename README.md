@@ -6,7 +6,7 @@ PAM- the AI Receptionist for the Northwestern Computer Science department
 
 Pam is a LLM designed to answer questions about the Northwestern CS department. She can answer questions about professors, computer science research, events, and courses. 
 
-**APPLICAIION OVERVIEW**
+**APPLICATION OVERVIEW**
 
 Client Side- client.py, ClassCode.py, GreeterDemo.py, http://the-singularity-show.com/pages/CS338/greeter.html (for the avatar)
 
@@ -41,6 +41,13 @@ updated_faculty_and_events_data(1).txt- contains information about professors an
 whereiseveryone.db- database about cs courses
 
 CLIENT SIDE
+
+ClassCode.py- module was written by Kristian Hammond to communicate with the avatar available at url http://the-singularity-show.com/pages/CS338/greeter.html. paragraphSpeak() sends text to the avatar to speak. purge() purges all the texts in the avatar queue.
+
+GreeterDemo.py- module was written by Kristian Hammond to communicate with the avatar available at url http://the-singularity-show.com/pages/CS338/greeter.html. speak() calls ClassCode.purge() to clear the text queue for the avatar and calls paragraphSpeak().
+
+client.py- 
+
 
 
 
