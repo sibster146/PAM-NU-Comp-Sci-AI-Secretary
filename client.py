@@ -21,10 +21,10 @@ def execute_remote_query(query):
     encoded_query = quote(query)
 
     # Define the SSH parameters
-    hostname = '3.21.236.74'
-    port = 22
-    username = 'ec2-user'
-    private_key_path = 'test2.pem'
+    # hostname = 
+    # port =
+    # username = 
+    # private_key_path = 
 
     # Initialize the SSH client
     client = paramiko.SSHClient()
