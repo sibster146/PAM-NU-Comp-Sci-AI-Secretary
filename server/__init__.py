@@ -60,7 +60,7 @@ def course_matching(sentence):
 
 stemmer = PorterStemmer()
 
-OPENAI_API_KEY = "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"
+# OPENAI_API_KEY = ##############################
 os.environ["OPENAI_API_KEY"] = OPENAI_API_KEY
 
 event_loader = TextLoader("server/updated_faculty_and_events_data.txt")
