@@ -1,8 +1,11 @@
-Pam is a LLM designed to answer questions about the Northwestern CS department.
+PROJECT NAME
+PAM- the AI Receptionist for the Northwestern Computer Science department
 
-SET UP
-The modules "server" and "application.py" contain the LLM, which was built as a Flask server application. "Client.py" contains an always listening scripts that will listen to speech,
-convert it to text, and send the text to the server. The LLM will find the response to the question and return it to the client. I recommend deploying the Flask application as a web 
-server on an EC2 instance with NGINX.
+PROJECT DESCRIPTION
+Pam is a LLM designed to answer questions about the Northwestern CS department. She can answer questions about professors, computer science research, events, and courses. 
+
+INSTALLATION
+Git clone the repository into your local repository. Install the dependencies in requirements.txt. Then, run python application.py.
+
 
 Presentation: https://vimeo.com/908564340?share=copy
